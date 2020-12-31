@@ -9,8 +9,8 @@ Department of Biomedical Engineering<br/>
 10555 West Flagler Street<br/>
 33174 Florida International University, USA<br/>
 
-<a href="amirz013@fiu.edu">Academic Email - amirz013@fiu.edu</a> <br/>
-<a href="asadmirza33165@gmail.com">Work Email - asadmirza33165@gmail.com</a>  <br/>
+<a href="amirz013@fiu.edu">Academic Email - amirz013@fiu.edu</a><br/>
+<a href="asadmirza33165@gmail.com">Work Email - asadmirza33165@gmail.com</a><br/>
 Mobile Number - +1 305-608-8687 <br/>
 
 <div id="webaddress">
@@ -118,49 +118,11 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 
 *Funding includes only amounts over 5000€*
 
-### Under review
-
-**Project funding**, *Renlund foundation*, Finland, 54 500€. Sole PI.<br/>
-Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
-
-<!--
-**Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
-Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
--->
-
 ### Research funding
 
 `2014–2018`
 **Academy Project**, *Academy of Finland*, Finland, 451 763€. Sole PI.<br/>
 What controls deformation in a ‘bent’ 3D orogen? The effects of spatially variable rock strength, erosion and mass transport on the tectonics of the Bolivian Andes
-
-`2014–2017`
-**Three-Year Research Project**, *University of Helsinki*, Helsinki, Finland,<br/> 145 000€. Sole PI.<br/>
-What controls strain partitioning at obliquely convergent ocean-continent margins? 3D dynamics of crustal deformation along the western Andean margin
-
-`2010-2012`
-**ACEnet Research Fellowships Program**, *Atlantic Canada Computational Excellence Network (ACEnet)*, Canada, $40 000 [CAD]. Co-PI with C. Beaumont.<br/>
-3-D plateau formation and evolution from numerical model experiments
-
-### Infrastructure
-
-`2016`
-**Faculty of Science internal infrastructure funding**, *University of Helsinki*, Helsinki, Finland, 90 000€. Sole PI.<br/>
-Geosciences high-performance computing cluster (geo-hpcc)
-
-`2014`
-**Department of Geosciences and Geography internal infrastructure funding**, *University of Helsinki*, Helsinki, Finland, 120 000€. Sole PI.<br/>
-Computational infrastructure for Earth Sciences
-
-### Computing allocations
-
-`2014`
-**PRACE Preparatory Access**, *Partnership for Advanced Computing in Europe (PRACE)*, Brussels, Belgium, 200,000 core-hours. Sole PI.<br/>
-Nested DOUAR: Coupling high and low resolution finite element models to solve 3D geologic problems
-
-`2012`
-**Compute Canada National Resource Allocation**, *Compute Canada*, Toronto, ON, Canada, 109 core-years. Co-PI with J. Allen and C. Beaumont.<br/>
-Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt to the Himalayan peaks
 
 ## Awards and honors
 
@@ -218,31 +180,9 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ## Conference activity
 
-### Organization
-
-`2017`
-**Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
-“Global modelling of early and recent Earth”
-
-`2016`
-**Session co-convener**, *Nordic Geological Winter Meeting*, Helsinki, Finland.<br/>
-“Dynamics and evolution of the lithosphere from Archean to present”<br/>
-“Interactions between climate, erosion and tectonics”
-
-`2014`
-**Steering committee**, *Lithosphere 2014 symposium*, Turku, Finland.
-
-`2013`
-**Session co-chair**, *28th Himalayan Karakorum Tibet Workshop and 6th International Symposium on Tibetan Plateau Joint Conference*, Tübingen, Germany.<br/>
-“Crustal Doming, Exhumation and Lateral Extrusion”
-
-`2010`
-**Session co-convener**, *Geological Society of America Annual Meeting*, Denver, Colorado, USA.<br/>
-“Orogeny: From rigid plates to diffuse lithospheric deformation”, one of several sessions celebrating the 30th anniversary of the Structural Geology and Tectonics Division of the GSA
-
 ### Presentations
 
-*Past 4 years. Asterisks indicate student lead authors.*
+*Asterisks indicate student lead authors.*
 
 `2020`
 A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. P\"{u}tz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs. Vol 52, No. 6, 2020. doi: 10.1130/abs/2020AM-358401.
@@ -443,102 +383,6 @@ Co-taught with Lars Kaislaniemi
 
 ## Supervision
 
-### Postdoctoral researchers
-
-`2015-2018`
-**Lars Kaislaniemi**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-### Doctoral students
-`2021-present`
-**Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Jon Pownall and Pentti Hölttä (GTK)
-
-`2020-present`
-**Veikko Peltonen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Seija Kultti
-
-`2019-present`
-**Tuija Luhta**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Timo Tiira
-
-`2017-present`
-**Matthias Nettesheim**, *Department of Geosciences, University of Tübingen*, Tübingen, Germany.<br/>
-Co-supervised with Todd Ehlers
-
-`2014-2018`
-**Jorina Schütt**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-### Masters students
-
-`2020-present`
-**Ida-Maria Hanski**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Tuija Luhta and Kati Oinonen
-
-`2018-present`
-**Aleksi Rantanen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
-
-`2019-2020`
-**Yijun Wang**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
-
-`2017-2020`
-**Lotta Ylä-Mella**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Ilmo Kukkonen
-
-`2017-2019`
-**Nelli Metiäinen**, *Master's Program in Geography, University of Helsinki*, Helsinki, Finland.
-
-`2014-2016`
-**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Now: Geologist, Pöyry Finland Oy
-
-### Bachelors theses
-
-<!-- `2019-present`
-**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany. -->
-
-`2018-present`
-**Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
-
-`2016–2018`
-**Lotta Ylä-Mella**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
-
-`2016–2017`
-**Jennifer Hällsten**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Jorina Schütt
-
-### Visiting researchers
-
-`2017-present`
-**Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
-
-### Supervisory committee
-
-`2020-present`
-**Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-**Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-**Tsarsitalidou, Christina**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-**Ville Virtanen**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-`2019-present`
-**Suoya Fan**, *Doctoral student, Dept. of Earth and Atmospheric Sciences, University of Houston*, Houston, TX, USA.
-
-`2018`
-**Rémi Vachon**, *Doctoral student, Dept. of Earth Sciences, Uppsala University*, Uppsala, Sweden.
-
-`2011–2016`
-**Janice Allen**, *Doctoral student, Dept. of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Now: Imperial Oil, Canada
-
-`2012–2015`
-**Gabe Creason**, *Masters student, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Now: Ph.D. student, Oregon State University
-
-`2011–2014`
-**Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
 ### Undergraduate interns
 
 `2017-2019`
@@ -549,22 +393,6 @@ Now: Ph.D. student, Oregon State University
 
 **Jugraj Singh**, *Rajiv Gandhi Institute of Petroleum Technology*, Jais, Uttar Pradesh, India.
 
-`2018`
-**Marta Girbau**, *Department of Geology, Universitat Autònoma de Barcelona*, Barcelona, Spain.
-
-`2016`
-**Miro Pütz**, *Institute of Geophysics, University of Hamburg*, Hamburg, Germany.
-
-`2014`
-**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2006–2008`
-**Chris Spath**, *Department of Electrical Engineering and Computer Science, University of Michigan*, Ann Arbor, MI, USA.<br/>
-Co-supervised with Todd Ehlers
-
-`2004`
-**Nick Olds**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.<br/>
-Co-supervised with Todd Ehlers
 
 ## Professional training
 
