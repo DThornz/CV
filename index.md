@@ -1,24 +1,25 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Asad Mirza's CV
 ---
-# David Whipp
-Associate professor, University of Helsinki
+# Asad Mirza
+Doctoral Candidate, Florida International University
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Department of Biomedical Engineering<br/>
+10555 West Flagler Street<br/>
+33174 Florida International University, USA<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="amirz013@fiu.edu">Academic Email - amirz013@fiu.edu</a>
+<a href="asadmirza33165@gmail.com">Work Email - asadmirza33165@gmail.com</a> 
+Number - +1 305-608-8687
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://amirza.dev"><i class="fas fa-home"></i> amirza.dev</a> - 
+  <a href="https://github.com/DThornz"><i class="fab fa-github"></i> DThornz</a> - 
+  <a href="https://orcid.org/0000-0003-4515-2203"><i class="ai ai-orcid"></i> 0000-0003-4515-2203</a> - 
+  <a href="https://www.researchgate.net/profile/Asad_Mirza2"><i class="ai ai-researchgate"></i> Asad_Mirza</a> - 
 </div>
+
 
 ## Education
 
@@ -62,13 +63,10 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
-
-### Books
-
-H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2021). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
+*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=wQ3FY_wAAAAJ). Asterisks indicate student lead authors.*
 
 <!--
+
 ### Journal articles, in preparation
 -->
 
@@ -668,18 +666,16 @@ American Geophysical Union
 
 ## Languages
 
-Native: English
+Native: English, Urdu
 
-Basic: Finnish, French, German
+Basic: Hindi
 
 ## Personal
 
-Birth date: 9 March 1980
+Birth date: 27 December 1995
 
 Citizenship: USA
 
-Residence: Finland (Permanent resident)
+Residence: USA
 
-Family: Married, two children
-
-<br/>Last updated: October 2020<br/><br/>
+<br/>Last updated: December 2020<br/><br/>
