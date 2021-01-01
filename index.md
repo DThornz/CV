@@ -231,17 +231,6 @@ Presentation on mountain systems to the audience of undergraduate students prese
 **Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
 Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s *Into Thin Air* for eleventh grade English students
 
-## Memberships
-
-`2014-present`
-European Geosciences Union
-
-`2005-present`
-Geological Society of America
-
-`2003-present`
-American Geophysical Union
-
 ## Technical Skills
 
 • Operating Systems: Windows / Linux
