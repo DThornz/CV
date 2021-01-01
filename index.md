@@ -30,12 +30,64 @@ Thesis:*“Translatable Bio-Mechanical Approaches for Sub-Clinical Thrombosis Ri
 
 `Aug 2014 - Dec 2017`
 **B.S., Biomedical Engineering**, *Florida International University*, Miami, FL, USA.<br/>GPA: 3.74/4.0 <br/>
-Thesis:*“A System for Wholefield Fluorescent Microscopy Imaging In-Vivo”*
+Senior Design Project:*“A System for Wholefield Fluorescent Microscopy Imaging In-Vivo”*
 
 ## Experience
 
-`2021-`
-**Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+`Aug 2019 - Present`
+**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+BME 1054L: Introduction to Biomedical Engineering and Computing
+
+`Aug 2019 - Present`
+**Lab Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+Dr. Ramaswamy's Cardiovascular Therapeutics Lab <br/>
+TAVR Valve Selection Optimization
+
+`Aug 2018 - July 2019`
+**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+BME 3632: Biomedical Enginneering Transport
+
+`Jan 2018 - April 2019`
+**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+BME 4211: Orthopedic Biomechanics
+
+`Oct 2017 - Dec 2017`
+**BME Department Tutor**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+BME 2740: Modeling and Simulation <br/>
+BME 4100: Biomaterials <br/>
+
+`Jan 2016 - Aug 2019`
+**Lab Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+Dr. Tsoukias's Vascular Physiology and Biotransport Lab<br/>
+Pericyte cell modeling <br/>
+
+`Aug 2014 - Aug 2018`
+**CHEMPAL Tutor**, *Department of Chemistry, Florida International University*, Miami, FL, USA. <br/>
+
+`Jan 2017 - April 2017`
+**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+BME 2740: Modeling and Simulation
+
+`Aug 2015 - Jan 2017`
+**Professional Tutor**, *Beck College Prep*, Miami, FL, USA. <br/>
+ACT/SAT/SAT Subject Test Tutor
+
+`Jan 2015 - Jun 2017`
+**Graphics Design Intern**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+
+`Sep 2014 - Jan 2015`
+**Social Media Head**, *NextGen Climate - Miami Sector*, Miami, FL, USA. <br/>
+
+`Sep 2014 - Mar 2015`
+**General Tutor**, *Little Lighthouse Foundation*, Miami, FL, USA. <br/>
+
+`Aug 2014 - Apr 2015`
+**Tutor**, *Southwest Miami Senior High School*, Miami, FL, USA. <br/>
+AP Physics /  AP Chemistry
+
+`Aug 2010 - Apr 2014`
+**Hospital Volunteer**, *Nicklaus Children's Hospital (formally Miami Children's Hospital)*, Miami, FL, USA. <br/>
+Child Care, Activity Cart, In-Patient Pharmacy
 
 ## Publications
 
