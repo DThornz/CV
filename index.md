@@ -9,8 +9,8 @@ Department of Biomedical Engineering<br/>
 10555 West Flagler Street<br/>
 33174 Florida International University, USA<br/>
 
-<a href="amirz013@fiu.edu">Academic Email - amirz013@fiu.edu</a><br/>
-<a href="asadmirza33165@gmail.com">Work Email - asadmirza33165@gmail.com</a><br/>
+Academic Email - <a href="amirz013@fiu.edu"> amirz013@fiu.edu</a><br/>
+Work Email - <a href="asadmirza33165@gmail.com"> asadmirza33165@gmail.com</a><br/>
 Mobile Number - +1 305-608-8687 <br/>
 
 <div id="webaddress">
