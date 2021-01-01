@@ -91,33 +91,37 @@ Child Care, Activity Cart, In-Patient Pharmacy
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=wQ3FY_wAAAAJ). Asterisks indicate student lead authors.*
+*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=wQ3FY_wAAAAJ).*
 
 <!--
 
 ### Journal articles, in preparation
+
 -->
 
 ### Journal articles
 
-**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
+`2020`
+Gonzalez B, Perez-Nevarez M, **Mirza AM**, Perez M, Ramaswamy S. *“Physiologically Relevant Fluid-Induced Oscillatory Shear Stress Stimulation of Mesenchymal Stem Cells Enhances the Engineered Valve Matrix Phenotype”* *Frontiers in Cardiovascular Medicine*.doi: [10.3389/fcvm.2020.00069](https://doi.org/10.3389/fcvm.2020.00069),  2020 
 
-M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and ground observations. *Engineering Geology*, **submitted**.
+`2019`
+Mozneb M, **Mirza AM**, Li CZ. *“Non-Invasive Plasmonic Based Real Time Characterization of Cardiac Drugs on Cardiomyocytes Functional Behavior”*. *Analytical Chemistry*. doi: [10.1021/acs.analchem.9b04956](https://doi.org/10.1021/acs.analchem.9b04956), 2019 
 
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **submitted**.
+`2019`
+Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic Heart Valve Leaflet Curvature Changes During Cyclic Flexure”.*  *Bioengineering (Basel)*. doi: [10.3390/bioengineering6020039](https://doi.org/10.3390/bioengineering6020039), 2019
+
+`2018`
+**Mirza AM**, Moshkforoush A, Tsoukias N, *“Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell”*, 2018 (In Preparation) .
+
+## Grants, Fellowships, and Funding
+
+### Fellowships
 
 `2020`
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
+**KFF 2021 Fellowship**, *Koerner Family Foundation*, USA, $10,000. <br/>
 
-## Grants and funding
-
-*Funding includes only amounts over $5000*
-
-### Research funding
-
-`2014–2018`
-**Academy Project**, *Academy of Finland*, Finland, 451 763€. Sole PI.<br/>
-What controls deformation in a ‘bent’ 3D orogen? The effects of spatially variable rock strength, erosion and mass transport on the tectonics of the Bolivian Andes
+`2017`
+**McNair Undergraduate Fellowship**, *Ronald E. McNair Post-Baccalaureate Achievement Program*, USA, $1,000. <br/>
 
 ## Awards and honors
 
