@@ -23,11 +23,14 @@ Mobile Number - +1 305-608-8687 <br/>
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`Aug 2018 - July 2022`
+**Ph.D., Biomedical Engineering**, *Florida International University*, Miami, FL, USA. <br/>
+GPA: 3.74/4.0 <br/>
+Thesis:*“Translatable Bio-Mechanical Approaches for Sub-Clinical Thrombosis Risk Minimization in Transcatheter Aortic Valve Replacement (TAVR)”*
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+`Aug 2014 - Dec 2017`
+**B.S., Biomedical Engineering**, *Florida International University*, Miami, FL, USA.<br/>GPA: 3.74/4.0 <br/>
+Thesis:*“A System for Wholefield Fluorescent Microscopy Imaging In-Vivo”*
 
 ## Experience
 
