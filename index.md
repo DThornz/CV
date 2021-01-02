@@ -21,6 +21,8 @@ Mobile Number - +1 305-608-8687 <br/>
   <a href="https://www.researchgate.net/profile/Asad_Mirza2"><i class="ai ai-researchgate"></i> Asad_Mirza</a> - 
 </div>
 
+<hr> </hr>
+
 ## Education
 
 `Aug 2018 - July 2022`
@@ -31,6 +33,8 @@ Thesis:*“Translatable Bio-Mechanical Approaches for Sub-Clinical Thrombosis Ri
 `Aug 2014 - Dec 2017`
 **B.S., Biomedical Engineering**, *Florida International University*, Miami, FL, USA.<br/>GPA: 3.74/4.0 <br/>
 Senior Design Project:*“A System for Wholefield Fluorescent Microscopy Imaging In-Vivo”*
+
+<hr> </hr>
 
 ## Experience
 
