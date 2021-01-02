@@ -295,17 +295,19 @@ Introduction to the geology and culture of Nepal related to reading of Jon Kraka
 
 ## Technical Skills
 
-• Operating Systems: Windows / Linux
+**Operating Systems**: Windows / Linux
 
-• General Software: MS Office, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe InDesign, Publisher
+**General Software**: MS Office, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe InDesign, Publisher
 
-• Programming Languages: Python, JavaScript, Processing
+**Programming Languages**: Python, JavaScript, Processing
 
-• Scientific Computation and Simulation Packages: MATLAB, SIMULINK, COMSOL, ANSYS
+**Markup/Formatting Languages**: HTML, CSS, Markdown
 
-• CAD Modeling Software: SolidWorks, SpaceClaim, Blender 
+**Scientific Computation and Simulation Packages**: MATLAB, SIMULINK, COMSOL, ANSYS
 
-• MATLAB Toolboxes: Neural Network, Image Processing, Data Acquisition, Computer Vision
+**CAD Modeling Software**: SolidWorks, SpaceClaim, Blender 
+
+**MATLAB Toolboxes**: Neural Network, Image Processing, Data Acquisition, Computer Vision
 
 
 ## Languages
