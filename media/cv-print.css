@@ -190,14 +190,3 @@ strong {
 	visibility: hidden;
 }
 
-img {
-        position: absolute;
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-	right: 33.3%;
-}
-
