@@ -5,3 +5,4 @@ exclude:
   - Gemfile
   - .gitignore
   - README.md
+  - .jekyll-cache
