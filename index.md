@@ -132,27 +132,27 @@ Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic He
 
 ## Awards and honors
 
-`Sep 2018'
+`Sep 2018`
 **Trainee Poster Award Winner**, *11th World Congress for Microcirculation, Vancouver, CA.*
 
-`Dec 2017'
+`Dec 2017`
 **2nd Place Oral Presentation**, *Fall 2017 Senior Design Competition, FIU Biomedical Engineering Department, Miami, FL.* <br/>
 "System for Wholefield Fluroscent Microscopy Imaging In-Vivo" <br/>
 
-`Apr 2017'
+`Apr 2017`
 **McNair Scholar**, *Ronald E. McNair Postbaccalaureate Achievement Program Scholar, Miami, FL.* <br/>
 14th Cohort 
 
-`Dec 2015'
+`Dec 2015`
 **SGA Resident Scholarship**, *SGA, Florida International University, Miami, FL.* <br/> 
 
-`Aug 2014 - Dec 2017'
+`Aug 2014 - Dec 2017`
 **FIU Dean's List**, *Florida International University, Miami, FL.* <br/> 
 
-`Aug 2014'
+`Aug 2014`
 **FIU Presidential Scholarship**, *Florida International University, Miami, FL.* <br/> 
 
-`Apr 2014'
+`Apr 2014`
 **2nd Place Vex Robotics Competition**, *Florida Division, Southwest Miami Senior High School, Miami, FL.* <br/> 
 
 ## Conference Proceedings
