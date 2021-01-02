@@ -186,17 +186,6 @@ strong {
 #address {
 	display: none;
 }
-
-img {
-        position: absolute;
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-	right: 33.3%;
-}
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
