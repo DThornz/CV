@@ -2,7 +2,7 @@
 layout: cv
 title: Asad Mirza's CV
 ---
-<img src="https://www.amirza.dev/assets/favicon.png" style="width:100px;height:100px;">
+<a href="https://amirza.dev"><img src="https://www.amirza.dev/assets/favicon.png" style="width: 200px;height: 200px;position: absolute;right: 0%;box-shadow: inset 0 0 0px 3px rgb(0 0 0);"> <a/>
 
 # Asad Mirza
 Doctoral Candidate, Florida International University
