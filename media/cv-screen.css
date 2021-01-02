@@ -195,7 +195,7 @@ hr {
   margin-right: auto;
   border-style: inset;
   border-width: 5px;
-  border-color: red;
+  background-color: red;
 }
 
 /*
