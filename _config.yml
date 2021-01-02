@@ -1,1 +1,7 @@
 markdown:   kramdown
+
+exclude:
+  - _site
+  - Gemfile
+  - .gitignore
+  - README.md
