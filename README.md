@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 ---
-My CV as a webapge.
+My curriculum vitae (CV) as a webapge for easier sharing with those interested.
 _______________________________
 ### Original CV Template Author
 
