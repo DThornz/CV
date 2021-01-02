@@ -19,6 +19,7 @@ Mobile Number - +1 305-608-8687 <br/>
   <a href="https://github.com/DThornz"><i class="fab fa-github"></i> DThornz</a> - 
   <a href="https://orcid.org/0000-0003-4515-2203"><i class="ai ai-orcid"></i> 0000-0003-4515-2203</a> - 
   <a href="https://www.researchgate.net/profile/Asad_Mirza2"><i class="ai ai-researchgate"></i> Asad_Mirza</a> - 
+</div>
 
 ## Education
 
