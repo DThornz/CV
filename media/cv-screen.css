@@ -187,12 +187,6 @@ strong {
 	display: none;
 }
 
-contactInfo {
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
-}
-
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
