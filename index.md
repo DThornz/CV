@@ -118,11 +118,16 @@ Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic He
 
 ### Fellowships
 
-`2020`
+`Dec 2020`
 **KFF 2021 Fellowship**, *Koerner Family Foundation*, USA, $10,000. <br/>
 
-`2017`
+`Jun 2017`
 **McNair Undergraduate Fellowship**, *Ronald E. McNair Post-Baccalaureate Achievement Program*, USA, $1,000. <br/>
+
+### Grants
+
+`Oct 2017`
+**Braman Scholars Completion Grant**, *Braman Family Foundation*, USA, $1,000. <br/>
 
 ## Awards and honors
 
