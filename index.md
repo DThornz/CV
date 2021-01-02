@@ -132,22 +132,28 @@ Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic He
 
 ## Awards and honors
 
-`2020`
-**Teacher of the Year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
+`Sep 2018'
+**Trainee Poster Award Winner**, *11th World Congress for Microcirculation, Vancouver, CA.*
 
-`2014`
-**Exceptional Reviewer**, *Lithosphere*, *Geological Society of America*.
+`Dec 2017'
+**2nd Place Oral Presentation**, *Fall 2017 Senior Design Competition, FIU Biomedical Engineering Department, Miami, FL.* <br/>
+"System for Wholefield Fluroscent Microscopy Imaging In-Vivo" <br/>
 
-`2007`
-**Outstanding Graduate Student Instructor Award**, *Rackham Graduate School, University of Michigan*, Ann Arbor, MI, USA.
+`Apr 2017'
+**McNair Scholar**, *Ronald E. McNair Postbaccalaureate Achievement Program Scholar, Miami, FL.* <br/>
+14th Cohort 
 
-**Outstanding Graduate Student Instructor Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+`Dec 2015'
+**SGA Resident Scholarship**, *SGA, Florida International University, Miami, FL.* <br/> 
 
-`2006`
-**Outstanding Student Paper Award**, *Tectonophysics Section*, American Geophysical Union Fall Meeting.
+`Aug 2014 - Dec 2017'
+**FIU Dean's List**, *Florida International University, Miami, FL.* <br/> 
 
-`2003`
-**Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+`Aug 2014'
+**FIU Presidential Scholarship**, *Florida International University, Miami, FL.* <br/> 
+
+`Apr 2014'
+**2nd Place Vex Robotics Competition**, *Florida Division, Southwest Miami Senior High School, Miami, FL.* <br/> 
 
 ## Conference Proceedings
 
