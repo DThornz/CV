@@ -2,6 +2,7 @@
 layout: cv
 title: Asad Mirza's CV
 ---
+<div id="contactInfo">
 # Asad Mirza
 Doctoral Candidate, Florida International University
 
@@ -12,6 +13,7 @@ Department of Biomedical Engineering<br/>
 Academic Email - <a href="amirz013@fiu.edu"> amirz013@fiu.edu</a><br/>
 Work Email - <a href="asadmirza33165@gmail.com"> asadmirza33165@gmail.com</a><br/>
 Mobile Number - +1 305-608-8687 <br/>
+</div>
 
 <div id="webaddress">
   <a href="https://amirza.dev"><i class="fas fa-home"></i> amirza.dev</a> - 
