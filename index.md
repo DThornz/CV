@@ -159,10 +159,30 @@ Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic He
 
 ### Oral Presentations
 
+`June 2020`
+**Mirza AM**, Barreto A, Ramaswamy S (Pre-recorded): The Effect of Pulsatility on Thrombus Risk in Trans-Aortic Stent Geometries, *2020 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C)*, Virtual Meeting, June 17-20, 2020.
+
+`Feb 2020`
+Hsu  C-PD,  **Mirza  A**,  Matheny  R, Ramaswamy  S:Hydrodynamic  Assessment  of  a  Small Intestinal Submucosa Tubular Mitral Valve, *2nd International Conference of Tissue-Engineered Heart Valves  (ICTEHV), satellite  meeting  as  part  of  the Heart  Valve  Society(HVS)Annual  Meeting  2020* February 14-16,Abu Dhabi, UAE, 2020.
+
+`Sep 2018`
+Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsoukias N (ORAL):  Requirements for regenerative conduction of hyperpolarization in cerebral capillaries: a model analysis. *World Congress for Microcirculation 2018*, Vancouver, CA, Oct 9-13.
+
 
 ### Poster Presentations
 
-*Asterisks indicate student lead authors.*
+`Feb 2019`
+**Mirza  A**,  Barreto  A, Ramaswamy  S:  Aortic  Valve  Shape  Assessment  Following  Elastin Degradation. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   16-19, Philadelphia, PA, 2019.
+
+`June 2019`
+Barreto AD,  ****Mirza AM**, Ramaswamy  S:  A  Spatial  Mean  Curvature  Map  of the  Aortic Valve -Relevance   to   Calcification. *SB3C2019, Summer Biomechanics, Bioengineering   and Biotransport Conference*,June 21 –24, Seven Springs, June 25-28, PA, 2019.
+
+`Sep 2018`
+Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsoukias N:  Requirements for regenerative conduction of hyperpolarization in cerebral capillaries: a model analysis. *World Congress for Microcirculation 2018*, Vancouver, CA, Oct 9-13.
+
+
+
+
 
 `2020`
 A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. P\"{u}tz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs. Vol 52, No. 6, 2020. doi: 10.1130/abs/2020AM-358401.
