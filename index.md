@@ -163,38 +163,64 @@ Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic He
 **Mirza AM**, Barreto A, Ramaswamy S (Pre-recorded): The Effect of Pulsatility on Thrombus Risk in Trans-Aortic Stent Geometries, *2020 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C)*, Virtual Meeting, June 17-20, 2020.
 
 `Feb 2020`
-Hsu  C-PD,  **Mirza  A**,  Matheny  R, Ramaswamy  S:Hydrodynamic  Assessment  of  a  Small Intestinal Submucosa Tubular Mitral Valve, *2nd International Conference of Tissue-Engineered Heart Valves  (ICTEHV), satellite  meeting  as  part  of  the Heart  Valve  Society(HVS)Annual  Meeting  2020* February 14-16,Abu Dhabi, UAE, 2020.
+Hsu  C-PD,  **Mirza  A**,  Matheny  R, Ramaswamy  S:Hydrodynamic  Assessment  of  a  Small Intestinal Submucosa Tubular Mitral Valve, *2nd International Conference of Tissue-Engineered Heart Valves  (ICTEHV), satellite  meeting  as  part  of  the Heart  Valve  Society (HVS) Annual  Meeting  2020* February 14-16,Abu Dhabi, UAE, 2020.
 
 `Sep 2018`
-Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsoukias N (ORAL):  Requirements for regenerative conduction of hyperpolarization in cerebral capillaries: a model analysis. *World Congress for Microcirculation 2018*, Vancouver, CA, Oct 9-13.
+Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsoukias N:  Requirements for regenerative conduction of hyperpolarization in cerebral capillaries: a model analysis. *World Congress for Microcirculation 2018*, Vancouver, CA, Oct 9-13.
+
+`Dec 2017`
+**Mirza A**, Robledo E, Pinzon J, Fuenzalida N:  System for Whole Field Fluorescence Microscopy Imaging In-Vivo. *BME Senior Design Project*, Florida International University, Miami, FL
+
+`Oct 2017`
+**Mirza A**, Moshkforoush A, Giles W,Tsoukias N:  Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell. *2017 FIU McNair's Scholars Research Conference*, Florida International University, Miami, FL
 
 
 ### Poster Presentations
 
-`Feb 2019`
+`Mar 2020`
+**Mirza  A**,  Barreto  A, Ramaswamy  S:  The Effect of Pulsatility on Thombus Risk in Trans-Aortic Stent Geometries. *Graudate Research Day 2019*,  Florida International University, Miami, FL
+
+`Feb 2020`
+**Mirza  A**,  Barreto  A, Ramaswamy  S:  The Effect of Pulsatility on Thombus Risk in Trans-Aortic Stent Geometries. *Miami Heart Day 2019*,  Florida International University, Miami, FL
+
+`Oct 2019`
 **Mirza  A**,  Barreto  A, Ramaswamy  S:  Aortic  Valve  Shape  Assessment  Following  Elastin Degradation. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   16-19, Philadelphia, PA, 2019.
 
 `June 2019`
 Barreto AD,  ****Mirza AM**, Ramaswamy  S:  A  Spatial  Mean  Curvature  Map  of the  Aortic Valve -Relevance   to   Calcification. *SB3C2019, Summer Biomechanics, Bioengineering   and Biotransport Conference*,June 21 –24, Seven Springs, June 25-28, PA, 2019.
 
+`Mar 2019`
+**Mirza  A**,  Barreto  A, Ramaswamy  S:  Axial Curvature Evaluation in Aortic Valve Tissue-Strips Following Elastin Degradation. *Graduate Research Day 2019*,  Florida International University, Miami, FL
+
+`Feb 2019`
+**Mirza  A**,  Barreto  A, Ramaswamy  S:  Axial Curvature Evaluation in Aortic Valve Tissue-Strips Following Elastin Degradation. *Miami Heart Day 2019*,  Florida International University, Miami, FL
+
+`Oct 2018`
+**Mirza A**, Moshkforoush A, Nelson M, Tsoukias N:  Multiscale Modeling of Cerebral Blood Flow: From Neurovascular Coupling to Tissue Perfusion and Oxygenation. *BMES 2018*, Atlanta, GA
+
 `Sep 2018`
-Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsoukias N:  Requirements for regenerative conduction of hyperpolarization in cerebral capillaries: a model analysis. *World Congress for Microcirculation 2018*, Vancouver, CA, Oct 9-13.
+Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsoukias N:  Requirements for regenerative conduction of hyperpolarization in cerebral capillaries: a model analysis. *World Congress for Microcirculation 2018*, Vancouver, CA, Sep 9-13.
 
+`Sep 2018`
+**Mirza A**, Moshkforoush A, Nelson M, Tsoukias N:  Multiscale Modeling of neurovascular Coupling: From Ion Channel Activity to BOLD fMRI Responses. *World Congress for Microcirculation 2018*, Vancouver, CA, Sep 9-13.
 
+`Apr 2018`
+**Mirza A**, Moshkforoush A, Giles W, Tsoukias N:  A Mathematical Model of Plasma Membrane Electrophysiology of a Brain Capillary Pericyte: Investigating Pericyte Contribution to the Electrical Properties of the Capillary Network. *Experimental Biology 2018*, San Diego, CA, USA
 
+`Oct 2017`
+**Mirza A**, Moshkforoush A, Giles W, Tsoukias N:  Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell. *8th Annual BME Undergraduate Research Day*, Florida International University, Miami, FL
 
+`Sep 2017`
+**Mirza A**, Moshkforoush A, Giles W, Tsoukias N:  Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell. *10th Annual Nanoscience Technology Symposium*, Florida International University, Miami, FL
 
-`2020`
-A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. P\"{u}tz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs. Vol 52, No. 6, 2020. doi: 10.1130/abs/2020AM-358401.
+`Jul 2017`
+**Mirza A**, Moshkforoush A, Giles W, Tsoukias N:  Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell. *2017 University of Buffalo (UB) Undergraduate Research Conference*, University of Buffalo, Buffalo, NY, USA
 
-**D. M. Whipp** and L. Kaislaniemi. Lithological and erosional controls on orogen width in the Bolivian Andes. Abstract EGU2020-20549, European Geosciences Union General Assembly, 4-8 May 2020. doi: [10.5194/egusphere-egu2020-20549](https://dx.doi.org/10.5194/egusphere-egu2020-20549).
+`Apr 2017`
+**Mirza A**, Blanco V, Kirk P, Garcia L, Jung R:  Evidence of PAC During Preksha Meditation. *2017 Biophysics of Neural Computation Research Conference*, Florida International University, Miami, FL
 
-A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. P\"{u}tz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs, Vol. 52, No. 4, ISSN 0016-7592. (Meeting cancelled due to COVID-19).
-
-`2019`
-J. Singh\*, R. S. Kumar, and **D. M. Whipp**. 1-D Numerical Model for Heat Transfer in Crust & Predicting Thermochronometer Age for Sedimentary Basin Subsidence & Uplift Rates for Hydrocarbon Exploration. Young Scientists Conference, India International Science Festival 2019, Kolkata, India, 5-8 November 2019.
-
-**D. M. Whipp**, P. Uotila, I. Kukkonen, E. Koivisto, T. Luhta. New geophysics study programs at the University of Helsinki. *XXIX Geophysics Days. Programme and Extended Abstracts, Rovaniemi, Finland, March 21–22, 2019*, Geophysical Society of Finland, 2019.
+`Mar 2017`
+**Mirza A**, Moshkforoush A, Giles W, Tsoukias N:  Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell. *7th Annual BME Undergraduate Research Day*, Florida International University, Miami, FL
 
 ## Teaching
 
