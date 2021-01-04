@@ -268,14 +268,14 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 
 ### Undergraduate interns
 
-`2017-2019`
-**Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
+`2021-`
+**Tisha Boodooram**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
+
+`2018-`
+**Amanda Barreto**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
 
 `2019`
-**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany.
-
-**Jugraj Singh**, *Rajiv Gandhi Institute of Petroleum Technology*, Jais, Uttar Pradesh, India.
-
+**Sergio Rodriguez**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
 
 ## Professional training
 
