@@ -92,7 +92,7 @@ Child Care, Activity Cart, In-Patient Pharmacy
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=wQ3FY_wAAAAJ).*
+*Publication list also available [on Google Scholar](https://scholar.google.fi/citations?user=wQ3FY_wAAAAJ).*
 
 <!--
 
@@ -100,7 +100,7 @@ Child Care, Activity Cart, In-Patient Pharmacy
 
 -->
 
-### Journal articles
+### Journal Articles
 
 `2020`
 Gonzalez B, Perez-Nevarez M, **Mirza AM**, Perez M, Ramaswamy S. *“Physiologically Relevant Fluid-Induced Oscillatory Shear Stress Stimulation of Mesenchymal Stem Cells Enhances the Engineered Valve Matrix Phenotype”* *Frontiers in Cardiovascular Medicine*.doi: [10.3389/fcvm.2020.00069](https://doi.org/10.3389/fcvm.2020.00069),  2020 
@@ -113,6 +113,24 @@ Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic He
 
 `2018`
 **Mirza AM**, Moshkforoush A, Tsoukias N, *“Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell”*, 2018 (In Preparation) .
+
+### Conference Abstracts
+
+`2020`
+Gonzalez B, Perez M, **Mirza A**, Scholl F, Bibevski S, Wagner K, Bibevski J, Hernandez L, Ladich E, Brehier V, Casares M, Morales P, Lopez J, Wagner J,  Ramaswamy S. *“Extracellular Matrix Quantification of Fully Regenerated Neochorade After Bio-scaffold Mitral Valve Implantation in a Juvenile Non-human Primate Model”* *Circulation*. doi: [10.1161/circ.142.suppl_3.14888](https://www.ahajournals.org/doi/abs/10.1161/circ.142.suppl_3.14888),  2020 
+
+`2020`
+CPD Hsu, **Mirza A**,  Ramaswamy S. *“Hydrodynamic Assessment of a Small Intestinal Submucosa Tubular Aortic Valve”* *Structrual Heart*. doi: [10.1080/24748706.2020.1717270](https://doi.org/10.1080/24748706.2020.1717270),  2020 
+
+`2020`
+**Mirza A**, CPD Hsu, Ramaswamy S. *“Hydrodynamic Assessment of a Small Intestinal Submucosa Tubular Mitral Valve”* *Structrual Heart*. doi: [10.1080/24748706.2020.1717272](https://doi.org/10.1080/24748706.2020.1717272),  2020 
+
+`2019`
+Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling of Functional Hyperemia: From Ion Channel Activity to Functional Imaging”* *The FASEB Journal*. doi: [10.1096/fasebj.2019.33.1_supplement.684.3](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2019.33.1_supplement.684.3),  2019 
+
+`2019`
+**Mirza A**, Moshkforoush A, Giles W, Tsoukias N. *“A Mathematical Model of Plasma Membrane Electrophysiology of a Brain Capillary Pericyte: Investigating Pericyte Contribution to the Electrical Properties of the Capillary Network”* *The FASEB Journal*. doi: [10.1096/fasebj.2018.32.1_supplement.712.10](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2018.32.1_supplement.712.10),  2019 
+
 
 ## Grants, Fellowships, and Funding
 
