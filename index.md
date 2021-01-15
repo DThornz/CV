@@ -268,10 +268,10 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 
 ### Undergraduate interns
 
-`2021-`
+`2021-Present`
 **Tisha Boodooram**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
 
-`2018-`
+`2018-Present`
 **Amanda Barreto**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
 
 `2019`
@@ -285,14 +285,18 @@ The Six Sigma Yellow Belt certification is aimed at those new to the world of Si
 
 ## University service
 
-`2020-present`
-**Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
+`2020`
+**2020 BME Senior Design Poster Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA<br/>
 
 ## Community outreach
 
-`2007`
-**Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
-Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s *Into Thin Air* for eleventh grade English students
+`2017`
+**Guest lecture**, *Southwest Miami Senior High School*, Miami, FL, USA.<br/>
+Taught Physics students MATLAB/Python programming and it's relationship with BME simulations.
+
+`2017`
+**Guest lecture**, *Southwest Miami Senior High School*, Miami, FL, USA.<br/>
+Taught Physics students MATLAB/Python programming and it's relationship with BME simulations.
 
 ## Technical Skills
 
