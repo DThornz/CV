@@ -279,68 +279,16 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 
 ## Professional training
 
-`2020`
-**Learning in Higher Education (UP1)**, *Centre for University Teaching and Learning, University of Helsinki*, Helsinki, Finland.<br/>
-Five credit introductory course for university pedagogy.
-
-`2019`
-**Unilead leadership program**, *Faculty of Science, University of Helsinki*, Helsinki, Finland.<br/>
-Leadership program organized by the Faculty of Science for the University of Helsinki supervisors to support them in their managerial duties and develop their leadership skills.
-
-`2007`
-**Classroom observation**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA.<br/>
-A short course on how to conduct and share classroom observations.
-
-## Professional service
-
-`2020`
-**Review panel member**, *German Research Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
-
-`2019-present`
-**Preparatory committee member**, *AdriaArray project*.
-
-`2016-2018`
-**Judge**, *Outstanding Student Poster and PICO Award, European Geosciences Union General Assembly*, Vienna, Austria.
-
-`2013-2016`
-**Judge**, *Outstanding Student Paper Awards, American Geophysical Union Fall Meeting*, San Francisco, CA, USA.<br/>
-Did not attend/judge in 2015
-
-`2013-2015`
-**Scientific expert in review panel**, *Fennovoima nuclear power company*, Helsinki, Finland.
-
-`2007-present`
-**Referee**.
-
-**Journals**: *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
-
-**Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
+`2017`
+**Six Sigma - Yellow Belt**, *Florida International University*, Miami, FL, USA.<br/>
+The Six Sigma Yellow Belt certification is aimed at those new to the world of Six Sigma who have a small role, interest, or need to develop foundational knowledge.
 
 ## University service
+
 `2020-present`
 **Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
 
-`2018-present`
-**Board member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
-
-`2017-present`
-**Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
-
-`2013-present`
-**Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
 ## Community outreach
-`2020`
-**Guest lecture**, *Kumpula Campus, University of Helsinki*, Finland.<br/>
-Introduction to the geodynamics of the Himalayan orogen for visiting high school students from the Germal School Helsinki
-
-`2015`
-**Guest lecture**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
-Introduction to my general areas of research on mountain evolution for visiting high school students from Tampere, Finland
-
-`2013`
-**Presenter**, *Science Bazaar, University of Helsinki*, Helsinki, Finland.<br/>
-Presentation on mountain systems to the audience of undergraduate students present for their orientation at the Kumpula Science Campus of the University of Helsinki
 
 `2007`
 **Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
