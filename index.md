@@ -242,49 +242,46 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 ## Teaching
 
-Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = course GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel
+### Guest Lectures
 
-### Main courses
+`2020`
+**MATLAB Data Presentation**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-`2013-present`
-*Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+`2020`
+**Image Processing Part 2**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-- \- Current Topics in Global Geophysics Research
-- \- Geo-Python (with Henrikki Tenkanen and Vuokko Heikinheimo) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
-- \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
-- \- Lithospheric Structure and Dynamics (with Ilmo Kukkonen)
+`2020`
+**Image Processing Part 1**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-`2018`
-*Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+`2020`
+**MATLAB Basics Part 3**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-- \- Conducting scientific research (with Tapani Rämö)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
+`2020`
+**MATLAB Basics Part 2**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-### Guest lectures
+`2020`
+**MATLAB Basics Part 1**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-`2019`
-**Geo-Python**, *Department of Geography and Geology, University of Turku and Department of Geology and Mineralogy, Åbo Akademi University*, Turku, Finland.
+`2020`
+**3D Printing**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-`2010, 2019`
-**Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
+`2020`
+**GUI Development**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-`2015-2018`
-**Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-### Assistant teaching
+### Graduate Assistant Teaching
 
-`2003–2007`
-*Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA
+`2017–2020`
+*Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-- \- Earth Surface Processes and Soils laboratory
-- \- Geology of the Rockies, University of Michigan Camp Davis, WY, USA
-- \- Introduction to Geology laboratory/discussion
-- \- Introduction to Oceanography laboratory
+- \- BME 1054L: Intro to BME Computing
+- \- BME 2740: Biomedical Engineering Modeling and Simulations
+- \- BME 3632: BME Transport
+- \- BME 4211: Orthopaedic Biomechanics
 
 ## Supervision
 
-### Undergraduate interns
+### Undergraduate Interns
 
 `2021-Present`
 **Tisha Boodooram**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
@@ -295,22 +292,18 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 `2019`
 **Sergio Rodriguez**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
 
-## Professional training
+## Professional Training
 
 `2017`
 **Six Sigma - Yellow Belt**, *Florida International University*, Miami, FL, USA.<br/>
 The Six Sigma Yellow Belt certification is aimed at those new to the world of Six Sigma who have a small role, interest, or need to develop foundational knowledge.
 
-## University service
+## University Service
 
 `2020`
 **2020 BME Senior Design Poster Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA<br/>
 
-## Community outreach
-
-`2017`
-**Guest lecture**, *Southwest Miami Senior High School*, Miami, FL, USA.<br/>
-Taught Physics students MATLAB/Python programming and it's relationship with BME simulations.
+## Community Outreach
 
 `2017`
 **Guest lecture**, *Southwest Miami Senior High School*, Miami, FL, USA.<br/>
