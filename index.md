@@ -268,7 +268,6 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 `2020`
 **GUI Development**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
-
 ### Graduate Assistant Teaching
 
 `2017–2020`
@@ -304,6 +303,10 @@ The Six Sigma Yellow Belt certification is aimed at those new to the world of Si
 **2020 BME Senior Design Poster Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA<br/>
 
 ## Community Outreach
+
+`2019`
+**EMBS BME Presentation - 3D Printing and Simulation**, *Pinecrest Cove Preparatory Academy*, Miami, FL, USA.<br/>
+Taught middle school students about 3D printing and BME oriented simulations (hip implants, computer cooling, etc)
 
 `2017`
 **Guest lecture**, *Southwest Miami Senior High School*, Miami, FL, USA.<br/>
