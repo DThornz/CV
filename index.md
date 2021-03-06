@@ -24,7 +24,7 @@ Mobile Number - +1 305-608-8687 <br/>
 
 ## Education
 
-`Aug 2018 - July 2022`
+`Aug 2018 - July 2023`
 **Ph.D., Biomedical Engineering**, *Florida International University*, Miami, FL, USA. <br/>
 GPA: 3.74/4.0 <br/>
 Thesis:*“Translatable Bio-Mechanical Approaches for Sub-Clinical Thrombosis Risk Minimization in Transcatheter Aortic Valve Replacement (TAVR)”*
@@ -43,6 +43,10 @@ BME 1054L: Introduction to Biomedical Engineering and Computing
 **Lab Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
 Dr. Ramaswamy's Cardiovascular Therapeutics Lab <br/>
 TAVR Valve Selection Optimization
+
+`Aug 2020 - Dec 2020`
+**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+BME 40513L: Biomedical Engineering Lab II
 
 `Aug 2018 - July 2019`
 **Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
@@ -177,6 +181,9 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 
 ### Oral Presentations
 
+`April 2021`
+**Mirza AM**, Barreto A, Boodooram T, Ramaswamy S (Pre-recorded): Importance of Non-Newtonian Modeling of Blood Flow for Calcified Aortic Valves, *Heart Vale Society (HVS) Annual Meeting 2021*, Virtual Meeting, April 9th, 2021.
+
 `June 2020`
 **Mirza AM**, Barreto A, Ramaswamy S (Pre-recorded): The Effect of Pulsatility on Thrombus Risk in Trans-Aortic Stent Geometries, *2020 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C)*, Virtual Meeting, June 17-20, 2020.
 
@@ -195,11 +202,14 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 ### Poster Presentations
 
+`March 2021`
+**Mirza AM**, Barreto A, Boodooram T, Ramaswamy S: Enhanced Hemodynamics Predictions in a Calcified Aortic Valve Geometry Using the Quemada Model, *Graudate Research Day 2021*,  Florida International University (Virtual), Miami, FL
+
 `Mar 2020`
-**Mirza  A**,  Barreto  A, Ramaswamy  S:  The Effect of Pulsatility on Thombus Risk in Trans-Aortic Stent Geometries. *Graudate Research Day 2019*,  Florida International University, Miami, FL
+**Mirza  A**,  Barreto  A, Ramaswamy  S:  The Effect of Pulsatility on Thombus Risk in Trans-Aortic Stent Geometries. *Graudate Research Day 2020*,  Florida International University, Miami, FL
 
 `Feb 2020`
-**Mirza  A**,  Barreto  A, Ramaswamy  S:  The Effect of Pulsatility on Thombus Risk in Trans-Aortic Stent Geometries. *Miami Heart Day 2019*,  Florida International University, Miami, FL
+**Mirza  A**,  Barreto  A, Ramaswamy  S:  The Effect of Pulsatility on Thombus Risk in Trans-Aortic Stent Geometries. *Miami Heart Day 2020*,  Florida International University, Miami, FL
 
 `Oct 2019`
 **Mirza  A**,  Barreto  A, Ramaswamy  S:  Aortic  Valve  Shape  Assessment  Following  Elastin Degradation. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   16-19, Philadelphia, PA, 2019.
@@ -243,6 +253,12 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 ## Teaching
 
 ### Guest Lectures
+
+`2021`
+**ANSYS CFD**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+
+`2021`
+**ANSYS FEA**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
 `2020`
 **MATLAB Data Presentation**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
@@ -326,7 +342,7 @@ Taught Physics students MATLAB/Python programming and it's relationship with BME
 
 **CAD Modeling Software**: SolidWorks, SpaceClaim, Blender 
 
-**MATLAB Toolboxes**: Neural Network, Image Processing, Data Acquisition, Computer Vision
+**MATLAB Toolboxes**: Neural Network, Image Processing, Data Acquisition, Computer Vision, Curve Fitting
 
 
 ## Languages
@@ -335,12 +351,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-## Personal
-
-Birth date: 27 December 1995
-
-Citizenship: USA
-
-Residence: USA
-
-<br/>Last updated: December 2020<br/><br/>
+<br/>Last updated: March 2021<br/><br/>
