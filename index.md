@@ -255,46 +255,134 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 ### Guest Lectures
 
 `2021`
-**ANSYS CFD**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**ANSYS CFD**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2021`
-**ANSYS FEA**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**ANSYS FEA**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2020`
-**MATLAB Data Presentation**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**MATLAB Data Presentation**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2020`
-**Image Processing Part 2**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**Image Processing Part 2**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2020`
-**Image Processing Part 1**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**Image Processing Part 1**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2020`
-**MATLAB Basics Part 3**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**MATLAB Basics Part 3**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2020`
-**MATLAB Basics Part 2**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**MATLAB Basics Part 2**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2020`
-**MATLAB Basics Part 1**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**MATLAB Basics Part 1**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2020`
-**3D Printing**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**3D Printing**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 `2020`
-**GUI Development**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**GUI Development**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 ### Graduate Assistant Teaching
 
-`2017–2020`
-*Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+`Spring 2020`
+- \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
+       - **51 students** <br>
+       - Conducting remote seminar hours where students could learn general MATLAB skills not usually offered in this or other courses. In addition to being able to discuss assignments as a group with TA supervision <br>
+       - Held weekly remote office hours assisting sutdents with MATLAB <br>
+       - Graded MATLAB based assignments and provided feedback to students <br>
 
-- \- BME 1054L: Intro to BME Computing
-- \- BME 2740: Biomedical Engineering Modeling and Simulations
-- \- BME 3632: BME Transport
-- \- BME 4211: Orthopaedic Biomechanics
+`Winter 2020`      
+- \- BME 6266: Advanced Biofluid Mechanics (Dr. Ramaswamy)
+       - **N/A students** <br>
+       - Worked with Dr. Ramaswamy to create a ANSYS CFD based project module focused on arterial aneurysm analysis<br>
+       - Pre-recorded instructional videos showing geometry importing, processing, solution setup, solving, and post-processing <br>
+       - Pre-processed 12 patient-specific geometery files to ready-to-use simulation state <br>
 
-## Supervision
+`Fall 2020`
+- \- BME 4051L - Biomedical Engineering Lab II (Dr. Christie and Dr. Jiao)
+       - **98 students** <br>
+       - Graded quizzes/final alongisde 4 other TAs <br>
+       - Conducted remote lab sessions as well as recorded lab videos for student convenience <br>
+
+`Fall 2020`
+- \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
+       - **76 students** <br>
+       - Conducting remote seminar hours where students could learn general MATLAB skills not usually offered in this or other courses. In addition to being able to discuss assignments as a group with TA supervision <br>
+       - Held weekly remote office hours assisting sutdents with MATLAB <br>
+       - Graded MATLAB based assignments and provided feedback to students <br>
+
+`Spring 2020`
+- \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
+       - **60 students** <br>
+       - Held weekly seminar hours where students could visit a computer lab where I could assist them with MATLAB <br>
+       - Held weekly office hours assisting sutdents with MATLAB <br>
+       - Graded MATLAB based assignments and provided feedback to students <br>
+
+`Fall 2019`
+- \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
+       - **83 students** <br>
+       - Held weekly seminar hours where students could visit a computer lab where I could assist them with MATLAB <br>
+       - Held weekly office hours assisting sutdents with MATLAB <br>
+       - Graded MATLAB based assignments and provided feedback to students <br>
+
+`Summer 2019`
+- \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
+       - **N/A students** <br>
+       - Worked with Dr. Tsoukias and Dr. Jung to redesign parts of the course based on student feedback <br>
+       - Created accompanying videos for each course module where I explain the PowerPoint to students and code along with them <br>
+       - Created a series of BME-oriented assignments to engage students outside of normal course content <br>
+       - Created a brand new module, Biosignal Processing, where students learn the beginning steps of signal processing such as what makes up a signal, frequency analysis, Fourier/Inverse Fourier transform, and filters, all with a BME scope (ECG, EEG, etc) <br>
+       - Updated some of the PowerPoints to better match modern style and MATLAB concepts <br>
+
+`Spring 2019`
+- \- BME 3632: BME Transport (Dr. Ramaswamy)
+       - **43 students** <br>
+       - Grading of assignments / quizzes / exams <br>
+       - Held weekly office hours explaining BME Transport concepts <br>
+
+`Fall 2018`
+- \- BME 3632: BME Transport (Dr. Hutcheson)
+       - **49 students** <br>
+       - Grading of assignments / quizzes / exams <br>
+       - Held weekly office hours explaining BME Transport concepts <br>
+       - Taught 2 classes on solving PDEs using MATLAB for course project <br>
+
+`Spring 2018`
+- \- BME 4211: Orthopaedic Biomechanics (Dr. McPherson) 
+       - **34 students** <br>
+       - Grading of assignments / quizzes / exams <br>
+
+## Supervision 
+<br>
+
+### Senior Design Group Consultation
+
+`Fall 2020`
+- Team 2: Heel Pressure Relief Sock
+- Team 5: Dynamic Resistance Orthosis (D.R.O.)
+- Team 7: FTMS: Force-Tension Monitoring System for the Central Cable Transport Device During Distraction Osteogensis
+
+`Spring 2020`
+- Team 5: Bite Force Recording Device
+
+`Fall 2019`
+- Team 1: Wireless Electrode for the SA Node of the Heart
+- Team 3: System to Quantify the Effect of Visual Inputs on Body Sway
+- Team 5: Foam-Based Pressure System for AId in Casting of Transtibial and Transfemoral Amputees
+- Team 10: Garrison Gauge
+
+`Spring 2019`
+- Team 8: Delivery of Viscous Biologics in Wearable Injectors
+- Team 10: System for Registering Tracking Bone Movement
+
+`Spring 2018`
+- Team 9: Vein Preservation System
+- Team 13: Standardized Vaportization Device Attachment for Inhalable Drug Dose Monitoring
+
+`Fall 2017`
+- Team 5: Field Therapy Accelerator
 
 ### Undergraduate Interns
 
@@ -307,6 +395,7 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 `2019`
 **Sergio Rodriguez**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
 
+
 ## Professional Training
 
 `2017`
@@ -315,8 +404,14 @@ The Six Sigma Yellow Belt certification is aimed at those new to the world of Si
 
 ## University Service
 
-`2020`
-**2020 BME Senior Design Poster Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA<br/>
+`Fall 2020`
+**2020 Fall BME Senior Design Poster Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA <br/>
+
+`Spring 2020`
+**2020 Spring BME Senior Design Poster Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA <br/>
+
+`Fall 2019`
+**2019 Fall BME Senior Design Poster Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA <br/>
 
 ## Community Outreach
 
