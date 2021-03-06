@@ -215,7 +215,7 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 **Mirza  A**,  Barreto  A, Ramaswamy  S:  Aortic  Valve  Shape  Assessment  Following  Elastin Degradation. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   16-19, Philadelphia, PA, 2019.
 
 `June 2019`
-Barreto AD,  ****Mirza AM**, Ramaswamy  S:  A  Spatial  Mean  Curvature  Map  of the  Aortic Valve -Relevance   to   Calcification. *SB3C2019, Summer Biomechanics, Bioengineering   and Biotransport Conference*,June 21 –24, Seven Springs, June 25-28, PA, 2019.
+Barreto AD,  **Mirza AM**, Ramaswamy  S:  A  Spatial  Mean  Curvature  Map  of the  Aortic Valve -Relevance   to   Calcification. *SB3C2019, Summer Biomechanics, Bioengineering   and Biotransport Conference*,June 21 –24, Seven Springs, June 25-28, PA, 2019.
 
 `Mar 2019`
 **Mirza  A**,  Barreto  A, Ramaswamy  S:  Axial Curvature Evaluation in Aortic Valve Tissue-Strips Following Elastin Degradation. *Graduate Research Day 2019*,  Florida International University, Miami, FL
