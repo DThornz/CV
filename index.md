@@ -129,7 +129,6 @@ Barreto A, Paolino L, Orikasa-Lopez K, **Mirza A**, Agarwal A, Hutcheson J, Rama
 `2021`
 **Mirza A**, Barreto A, Boodooram T, Ramaswamy S. *“Importance of Non-Newtonian Modeling of Blood Flow for Calcified Aortic Valves: Relevance to Sub-Clinical Thrombosis”* *Structrual Heart*. doi: [10.1080/24748706.2021.1901539](https://www.tandfonline.com/doi/abs/10.1080/24748706.2021.1901539),  2021 
 
-
 `2020`
 Gonzalez B, Perez M, **Mirza A**, Scholl F, Bibevski S, Wagner K, Bibevski J, Hernandez L, Ladich E, Brehier V, Casares M, Morales P, Lopez J, Wagner J,  Ramaswamy S. *“Extracellular Matrix Quantification of Fully Regenerated Neochorade After Bio-scaffold Mitral Valve Implantation in a Juvenile Non-human Primate Model”* *Circulation*. doi: [10.1161/circ.142.suppl_3.14888](https://www.ahajournals.org/doi/abs/10.1161/circ.142.suppl_3.14888),  2020 
 
