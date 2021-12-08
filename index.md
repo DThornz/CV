@@ -367,6 +367,10 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 <br>
 
 ### Senior Design Group Consultation
+  
+`Fall 2021`
+- Team 1: P.R.O Scan
+- Team 5: Ampoule Scoring and Sealing Machine
 
 `Fall 2020`
 - Team 2: Heel Pressure Relief Sock
@@ -395,10 +399,10 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 ### Undergraduate Interns
 
-`2021-Present`
+`2020-2021`
 **Tisha Boodooram**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
 
-`2018-Present`
+`2018-2021`
 **Amanda Barreto**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
 
 `2019`
