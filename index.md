@@ -161,6 +161,9 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 **Braman Scholars Completion Grant**, *Braman Family Foundation*, USA, $1,000. <br/>
 
 ## Awards and honors
+  
+`Feb 2022
+**Poster Competition 2nd Place Winner**, *Heart Day 2022, Miami, FL*  
 
 `Sep 2018`
 **Trainee Poster Award Winner**, *11th World Congress for Microcirculation, Vancouver, CA.*
