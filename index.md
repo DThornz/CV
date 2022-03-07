@@ -9,7 +9,7 @@ Doctoral Candidate, Florida International University
 
 Department of Biomedical Engineering<br/>
 10555 West Flagler Street<br/>
-33174 Florida International University, USA<br/>
+Miami, FL, 33174, USA<br/>
 
 Academic Email - <a href="amirz013@fiu.edu"> amirz013@fiu.edu</a><br/>
 Work Email - <a href="asadmirza33165@gmail.com"> asadmirza33165@gmail.com</a><br/>
