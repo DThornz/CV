@@ -476,7 +476,7 @@ Taught Physics students MATLAB/Python programming and it's relationship with BME
 
 **Markup/Formatting Languages**: HTML, CSS, Markdown
 
-**Scientific Computation and Simulation Packages**: MATLAB, SIMULINK, COMSOL, ANSYS
+**Scientific Computation and Simulation Packages**: MATLAB, SIMULINK, COMSOL, ANSYS, LS-DYNA
 
 **CAD Modeling Software**: SolidWorks, SpaceClaim, Blender 
 
@@ -489,4 +489,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-<br/>Last updated: March 2021<br/><br/>
+<br/>Last updated: Februrary 2022<br/><br/>
