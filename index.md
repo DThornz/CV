@@ -147,7 +147,6 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 
 ## Grants, Fellowships, and Funding
 
-
 ### Fellowships
 
 `Dec 2020`
@@ -210,6 +209,15 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 
 ### Poster Presentations
+  
+`Feb 2022`
+**Mirza  A**, Ramaswamy  S:  Need For A More Representative Constitutive Model For Severely Calcified Aortic Valves. *Heart Vale Society (HVS) Annual Meeting 2022*,  Nobu Hotel, Miami, FL
+
+`Feb 2022`
+Perez M, Gonzalez B, L Yih-Mei, **Mirza  A**, Ramaswamy  S:  Enhanced Stem Cell Exosome Production Under Oscillatory Flow. *Miami Heart Day 2022*,  Florida International University, Miami, FL
+
+`Feb 2022`
+**Mirza  A**, Ramaswamy  S:  Discrepancies Between Material Models Used for Severely Calcified Aortic Valves. *Miami Heart Day 2022*,  Florida International University, Miami, FL
 
 `March 2021`
 **Mirza AM**, Barreto A, Boodooram T, Ramaswamy S: Enhanced Hemodynamics Predictions in a Calcified Aortic Valve Geometry Using the Quemada Model, *Graudate Research Day 2021*,  Florida International University (Virtual), Miami, FL
@@ -294,6 +302,28 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 **GUI Development**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 ### Graduate Assistant Teaching
+  
+`Spring 2022`
+- \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
+       - **68 students** <br>
+       - Held weekly remote office hours assisting sutdents with MATLAB <br>
+       - Graded MATLAB based assignments and provided feedback to students <br>
+  
+`Fall 2021`
+- \- BME 3632: BME Transport (Dr. Hutcheson)
+       - **43 students** <br>
+       - Asissted in teaching a module on Partial Differential Equations (PDE) for the purposes of team specific transport projects that were either energy, mass, or momentum based. Also improved and distributed code that the students could use as a template for their work. <br>
+  
+`Fall 2021`
+- \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
+       - **68 students** <br>
+       - Held weekly remote office hours assisting sutdents with MATLAB <br>
+       - Graded MATLAB based assignments and provided feedback to students <br>
+  
+`Summer 2020`
+- \- ABET Accreditation Preparation (Dr. Godavarty)
+       - Assist in compiling and analyzing department course data. <br>
+       - Creating several MATLAB scripts for processing and graphing of tabulated data for ease of use. <br>
 
 `Spring 2020`
 - \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
