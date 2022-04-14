@@ -213,11 +213,14 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 ### Poster Presentations
   
+`Apr 2022`
+**Mirza  A**, Ramaswamy  S:  Preliminary FSI Model of a Healthy Vs Severely Calcified Aortic Valve. *GSAW Scholarly Forum 2022*,  Florida International University, Miami, FL
+  
 `Mar 2022`
 Perez M, Gonzalez B, L Yih-Mei, **Mirza  A**, Ramaswamy  S:  Oscillatory Flow Conditioned Exosomes for the Treatment of Myocardial Infarction. *Graduate Research Day 2022*,  Florida International University, Miami, FL
   
 `Mar 2022`
-**Mirza  A**, Ramaswamy  S:  Preliminary FSI Model of a Healthy Vs Severely Calcified Aortic Valve. *Graudate Research Day 2022*,  Florida International University, Miami, FL
+**Mirza  A**, Ramaswamy  S:  Preliminary FSI Model of a Healthy Vs Severely Calcified Aortic Valve. *Graduate Research Day 2022*,  Florida International University, Miami, FL
   
 `Mar 2022`
 **Mirza  A**, Ramaswamy  S:  Need For A More Representative Constitutive Model For Severely Calcified Aortic Valves. *Heart Valve Society (HVS) Annual Meeting 2022*,  Nobu Hotel, Miami, FL
