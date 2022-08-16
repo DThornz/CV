@@ -105,6 +105,12 @@ Child Care, Activity Cart, In-Patient Pharmacy
 -->
 
 ### Journal Articles
+  
+`2022`
+Hsu C-PD, Tchir A, **Mirza A**, Chaparro D, Herrera RE, Hutcheson JD, Ramaswamy S. *“Valve Endothelial Cell Exposure to High Levels of Flow Oscillations Exacerbates Valve Interstitial Cell Calcification”* *Bioengineering* [10.3390/bioengineering9080393] https://doi.org/10.3390/bioengineering9080393, 2022
+  
+`2022`
+**Mirza A**, Ramaswamy S. *“Importance of Non-Newtonian Computational Fluid Modeling on Severely Calcified Aortic Valve Geometries-Insights from Quasi-Steady State Simulations”* *Journal of Biomechanical Engineering*.doi: [10.1115/1.4054630](https://doi.org/10.1115/1.4054630),  2022  
 
 `2020`
 Gonzalez B, Perez-Nevarez M, **Mirza AM**, Perez M, Ramaswamy S. *“Physiologically Relevant Fluid-Induced Oscillatory Shear Stress Stimulation of Mesenchymal Stem Cells Enhances the Engineered Valve Matrix Phenotype”* *Frontiers in Cardiovascular Medicine*.doi: [10.3389/fcvm.2020.00069](https://doi.org/10.3389/fcvm.2020.00069),  2020 
