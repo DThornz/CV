@@ -107,6 +107,9 @@ Child Care, Activity Cart, In-Patient Pharmacy
 ### Journal Articles
   
 `2022`
+Gonzalez, B.A.; Herrera, A.; Ponce, C.; Gonzalez Perez, M.; Hsu, C.-P.D.; **Mirza, A.**; Perez, M.; Ramaswamy, S. Stem Cell-Secreted Allogeneic Elastin-Rich Matrix with Subsequent Decellularization for the Treatment of Critical Valve Diseases in the Young. Bioengineering 2022, 9, 587. https://doi.org/10.3390/bioengineering9100587
+  
+`2022`
 Hsu C-PD, Tchir A, **Mirza A**, Chaparro D, Herrera RE, Hutcheson JD, Ramaswamy S. *“Valve Endothelial Cell Exposure to High Levels of Flow Oscillations Exacerbates Valve Interstitial Cell Calcification”* *Bioengineering* [10.3390/bioengineering9080393] https://doi.org/10.3390/bioengineering9080393, 2022
   
 `2022`
