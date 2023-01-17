@@ -165,6 +165,9 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 **McNair Undergraduate Fellowship**, *Ronald E. McNair Post-Baccalaureate Achievement Program*, USA, $1,000. <br/>
 
 ### Grants
+  
+'Jan 2023'
+**SGA Graduate Scholarship**, *SGA*, USA, $1,000. <br/>
 
 `Oct 2017`
 **Braman Scholars Completion Grant**, *Braman Family Foundation*, USA, $1,000. <br/>
