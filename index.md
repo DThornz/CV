@@ -551,4 +551,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-<br/>Last updated: Februrary 2022<br/><br/>
+<br/>Last updated: Februrary 2023<br/><br/>
