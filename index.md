@@ -25,10 +25,10 @@ Mobile Number - +1 305-608-8687 <br/>
 
 ## Education
 
-`Aug 2018 - July 2023`
+`Aug 2018 - July 2024`
 **Ph.D., Biomedical Engineering**, *Florida International University*, Miami, FL, USA. <br/>
 GPA: 3.74/4.0 <br/>
-Thesis:*“Translatable Bio-Mechanical Approaches for Sub-Clinical Thrombosis Risk Minimization in Transcatheter Aortic Valve Replacement (TAVR)”*
+Thesis:*“Fluid-Structure Computational Model for Early-Stage Aortic Valve Calcification Prediction Through Hemodynamic Biomarkers”*
 
 `Aug 2014 - Dec 2017`
 **B.S., Biomedical Engineering**, *Florida International University*, Miami, FL, USA.<br/>GPA: 3.74/4.0 <br/>
