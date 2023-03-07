@@ -20,6 +20,7 @@ Mobile Number - +1 305-608-8687 <br/>
   <a href="https://github.com/DThornz"><i class="fab fa-github"></i> DThornz</a> - 
   <a href="https://orcid.org/0000-0003-4515-2203"><i class="ai ai-orcid"></i> 0000-0003-4515-2203</a> - 
   <a href="https://www.researchgate.net/profile/Asad_Mirza2"><i class="ai ai-researchgate"></i> Asad_Mirza</a> - 
+  <a href="https://scholar.google.com/citations?user=wQ3FY_wAAAAJ"><i class="ai ai-google"></i> Asad_Mirza</a> - 
 </div>
 
 ## Education
@@ -174,6 +175,9 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 
 ## Awards and honors
   
+`Dec 2022`
+**SGA Graduate Scholarship**, *SGA, Florida International University, Miami, FL.* <br/> 
+  
 `Feb 2022
 **Poster Competition 2nd Place Winner**, *Heart Day 2022, Miami, FL*  
 
@@ -203,6 +207,10 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 ## Conference Proceedings
 
 ### Oral Presentations
+  
+`Mar 2023`
+  
+**Mirza  A**, Ramaswamy  S:  Development of a Patient-Specific Parameterized Aortic Heart Valve Computational Model. *Graduate Research Day 2023*,  Florida International University, Miami, FL
 
 `April 2021`
 **Mirza AM**, Barreto A, Boodooram T, Ramaswamy S (Pre-recorded): Importance of Non-Newtonian Modeling of Blood Flow for Calcified Aortic Valves, *Heart Vale Society (HVS) Annual Meeting 2021*, Virtual Meeting, April 9th, 2021.
@@ -224,6 +232,9 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 
 ### Poster Presentations
+  
+`Feb 2023`
+**Mirza  A**, Ramaswamy  S:  Towards the Creation of a Parameterized Asymmetric Aortic Valve Model. *Miami Heart Day 2023*,  Florida International University, Miami, FL
   
 `Apr 2022`
 **Mirza  A**, Ramaswamy  S:  Preliminary FSI Model of a Healthy Vs Severely Calcified Aortic Valve. *GSAW Scholarly Forum 2022*,  Florida International University, Miami, FL
@@ -294,6 +305,12 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 ## Teaching
 
 ### Guest Lectures
+  
+`2023`
+**Image Processing**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+  
+`2023`
+**MATLAB Basics**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
 `2021`
 **ANSYS CFD**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
@@ -326,6 +343,22 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 **GUI Development**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 ### Graduate Assistant Teaching
+
+`Spring 2023`
+- \- BME 2740: Biomedical Engineering Modeling and Simulation (Dr. Tamames)
+       - **34 students** <br>
+       - Held weekly remote office hours assisting sutdents with MATLAB <br>
+       - Graded MATLAB based assignments and provided feedback to students <br>
+       - Wrote lecture codes to assist students in understanding content <br>
+       - Created interactive lectures <br>
+  
+`Fall 2022`
+- \- BME 2740: Biomedical Engineering Modeling and Simulation (Dr. Tamames)
+       - **51 students** <br>
+       - Held weekly remote office hours assisting sutdents with MATLAB <br>
+       - Graded MATLAB based assignments and provided feedback to students <br>
+       - Wrote lecture codes to assist students in understanding content <br>
+       - Created interactive lectures <br>
   
 `Spring 2022`
 - \- BME 1054L: Introduction to BME Computing (Dr. Tsoukias)
@@ -421,6 +454,11 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 <br>
 
 ### Senior Design Group Consultation
+  
+`Fall 2022`
+- Team 1: Garrison Gauge
+- Team 3: Wearable Transdermal Isoflurane Monitoring Device 
+- Team 7: Tremor Tranquil
   
 `Fall 2021`
 - Team 1: P.R.O Scan
