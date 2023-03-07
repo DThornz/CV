@@ -179,10 +179,10 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 **SGA Graduate Scholarship**, *SGA, Florida International University, Miami, FL.* <br/> 
   
 `Feb 2022
-**Poster Competition 2nd Place Winner**, *Heart Day 2022, Miami, FL*  
+**Poster Competition 2nd Place Winner**, *Heart Day 2022, Miami, FL* <br/>   
 
 `Sep 2018`
-**Trainee Poster Award Winner**, *11th World Congress for Microcirculation, Vancouver, CA.*
+**Trainee Poster Award Winner**, *11th World Congress for Microcirculation, Vancouver, CA.* <br/>
 
 `Dec 2017`
 **2nd Place Oral Presentation**, *Fall 2017 Senior Design Competition, FIU Biomedical Engineering Department, Miami, FL.* <br/>
