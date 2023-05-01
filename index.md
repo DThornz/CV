@@ -167,7 +167,7 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 
 ### Grants
   
-'Jan 2023'
+`Jan 2023`
 **SGA Graduate Scholarship**, *SGA*, USA, $1,000. <br/>
 
 `Oct 2017`
