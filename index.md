@@ -178,7 +178,7 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 `Dec 2022`
 **SGA Graduate Scholarship**, *SGA, Florida International University, Miami, FL.* <br/> 
   
-`Feb 2022
+`Feb 2022`
 **Poster Competition 2nd Place Winner**, *Heart Day 2022, Miami, FL* <br/>   
 
 `Sep 2018`
@@ -232,6 +232,9 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 
 ### Poster Presentations
+  
+`March 2023`
+**Mirza  A**, Ramaswamy  S:  Towards the Creation of a Parameterized Asymmetric Aortic Valve Model. *GSAW Scholarly Forum 2023*,  Florida International University, Miami, FL
   
 `Feb 2023`
 **Mirza  A**, Ramaswamy  S:  Towards the Creation of a Parameterized Asymmetric Aortic Valve Model. *Miami Heart Day 2023*,  Florida International University, Miami, FL
@@ -551,4 +554,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-<br/>Last updated: Februrary 2023<br/><br/>
+<br/>Last updated: April 2023<br/><br/>
