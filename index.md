@@ -13,7 +13,6 @@ Miami, FL, 33174, USA<br/>
 
 Academic Email - <a href="amirz013@fiu.edu"> amirz013@fiu.edu</a><br/>
 Work Email - <a href="asadmirza33165@gmail.com"> asadmirza33165@gmail.com</a><br/>
-Mobile Number - +1 305-608-8687 <br/>
 
 <div id="webaddress">
   <a href="https://amirza.dev"><i class="fas fa-home"></i> amirza.dev</a> - 
@@ -118,7 +117,7 @@ Hsu C-PD, Tchir A, **Mirza A**, Chaparro D, Herrera RE, Hutcheson JD, Ramaswamy 
 **Mirza A**, Ramaswamy S. *“Importance of Non-Newtonian Computational Fluid Modeling on Severely Calcified Aortic Valve Geometries-Insights from Quasi-Steady State Simulations”* *Journal of Biomechanical Engineering*.doi: [10.1115/1.4054630](https://doi.org/10.1115/1.4054630),  2022  
 
 `2020`
-Gonzalez B, Perez-Nevarez M, **Mirza AM**, Perez M, Ramaswamy S. *“Physiologically Relevant Fluid-Induced Oscillatory Shear Stress Stimulation of Mesenchymal Stem Cells Enhances the Engineered Valve Matrix Phenotype”* *Frontiers in Cardiovascular Medicine*.doi: [10.3389/fcvm.2020.00069](https://doi.org/10.3389/fcvm.2020.00069),  2020 
+Gonzalez B, Perez-Nevarez M, **Mirza AM**, Perez M, Ramaswamy S. *“Physiologically Relevant Fluid-Induced Oscillatory Shear Stress Stimulation of Mesenchymal Stem Cells Enhances the Engineered Valve Matrix Phenotype”* *Frontiers in Cardiovascular Medicine*.doi: [10.3389/fcvm.2020.00069](https://doi.org/10.3389/fcvm.2020.00069),  2020, Co-First Author 
 
 `2019`
 Mozneb M, **Mirza AM**, Li CZ. *“Non-Invasive Plasmonic Based Real Time Characterization of Cardiac Drugs on Cardiomyocytes Functional Behavior”*. *Analytical Chemistry*. doi: [10.1021/acs.analchem.9b04956](https://doi.org/10.1021/acs.analchem.9b04956), 2019 
@@ -159,6 +158,9 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 ## Grants, Fellowships, and Funding
 
 ### Fellowships
+
+`Aug 2023`
+**DYF 2023 Fellowship**, *University Graduate School*, USA, $17,000. <br/>
 
 `Dec 2020`
 **KFF 2021 Fellowship**, *Koerner Family Foundation*, USA, $10,000. <br/>
@@ -233,6 +235,9 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 
 ### Poster Presentations
+
+`Oct 2023`
+**Mirza  A**, Ramaswamy  S:  Computational Reproduction of the Aortic Valve Geometry for Patient-Specific Simulations. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   11-14, Seattle, WA, 2023.
   
 `March 2023`
 **Mirza  A**, Ramaswamy  S:  Towards the Creation of a Parameterized Asymmetric Aortic Valve Model. *GSAW Scholarly Forum 2023*,  Florida International University, Miami, FL
