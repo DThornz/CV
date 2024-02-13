@@ -543,4 +543,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-<br/>Last updated: April 2023<br/><br/>
+<br/>Last updated: February 2024<br/><br/>
