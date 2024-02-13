@@ -38,7 +38,7 @@ Senior Design Project:*“A System for Wholefield Fluorescent Microscopy Imaging
 `Aug 2019 - Present`
 **Lab Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
 Dr. Ramaswamy's Cardiovascular Therapeutics Lab <br/>
-TAVR Valve Selection Optimization
+CAVD Hemodynamic Biomarker Project
 
 `Oct 2017 - Dec 2017`
 **BME Department Tutor**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
