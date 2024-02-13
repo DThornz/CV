@@ -33,28 +33,12 @@ Thesis:*“Fluid-Structure Computational Model for Early-Stage Aortic Valve Calc
 **B.S., Biomedical Engineering**, *Florida International University*, Miami, FL, USA.<br/>GPA: 3.74/4.0 <br/>
 Senior Design Project:*“A System for Wholefield Fluorescent Microscopy Imaging In-Vivo”*
 
-## Experience
-
-`Aug 2019 - Present`
-**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
-BME 1054L: Introduction to Biomedical Engineering and Computing
+## Work Experience
 
 `Aug 2019 - Present`
 **Lab Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
 Dr. Ramaswamy's Cardiovascular Therapeutics Lab <br/>
 TAVR Valve Selection Optimization
-
-`Aug 2020 - Dec 2020`
-**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
-BME 40513L: Biomedical Engineering Lab II
-
-`Aug 2018 - July 2019`
-**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
-BME 3632: Biomedical Enginneering Transport
-
-`Jan 2018 - April 2019`
-**Teaching Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
-BME 4211: Orthopedic Biomechanics
 
 `Oct 2017 - Dec 2017`
 **BME Department Tutor**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
