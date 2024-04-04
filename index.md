@@ -26,7 +26,7 @@ Work Email - <a href="asadmirza33165@gmail.com"> asadmirza33165@gmail.com</a><br
 
 `Aug 2018 - July 2024`
 **Ph.D., Biomedical Engineering**, *Florida International University*, Miami, FL, USA. <br/>
-GPA: 3.74/4.0 <br/>
+GPA: 3.84/4.0 <br/>
 Thesis:*“Fluid-Structure Computational Model for Early-Stage Aortic Valve Calcification Prediction Through Hemodynamic Biomarkers”*
 
 `Aug 2014 - Dec 2017`
