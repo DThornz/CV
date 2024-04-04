@@ -24,7 +24,7 @@ Work Email - <a href="asadmirza33165@gmail.com"> asadmirza33165@gmail.com</a><br
 
 ## Education
 
-`Aug 2018 - July 2024`
+`Aug 2018 - June 2024`
 **Ph.D., Biomedical Engineering**, *Florida International University*, Miami, FL, USA. <br/>
 GPA: 3.84/4.0 <br/>
 Thesis:*“Fluid-Structure Computational Model for Early-Stage Aortic Valve Calcification Prediction Through Hemodynamic Biomarkers”*
@@ -35,7 +35,7 @@ Senior Design Project:*“A System for Wholefield Fluorescent Microscopy Imaging
 
 ## Work Experience
 
-`Aug 2019 - Present`
+`Aug 2019 - June 2024`
 **Lab Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
 Dr. Ramaswamy's Cardiovascular Therapeutics Lab <br/>
 CAVD Hemodynamic Biomarker Project
