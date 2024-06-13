@@ -89,6 +89,8 @@ Child Care, Activity Cart, In-Patient Pharmacy
 -->
 
 ### Journal Articles
+`2024`
+Xiao, Z., **Mirza A.**, et al., A Bypass Flow Model to Study Endothelial Cell Mechanotransduction Across Diverse Flow Environments. Materials Today Bio, 2024: p. 101121. https://doi.org/10.1016/j.mtbio.2024.101121
   
 `2022`
 Gonzalez, B.A.; Herrera, A.; Ponce, C.; Gonzalez Perez, M.; Hsu, C.-P.D.; **Mirza, A.**; Perez, M.; Ramaswamy, S. Stem Cell-Secreted Allogeneic Elastin-Rich Matrix with Subsequent Decellularization for the Treatment of Critical Valve Diseases in the Young. Bioengineering 2022, 9, 587. https://doi.org/10.3390/bioengineering9100587
