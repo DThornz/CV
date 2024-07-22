@@ -545,4 +545,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-<br/>Last updated: February 2024<br/><br/>
+<br/>Last updated: July 2024<br/><br/>
