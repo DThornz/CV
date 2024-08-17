@@ -90,10 +90,13 @@ Child Care, Activity Cart, In-Patient Pharmacy
 
 ### Journal Articles
 `2024`
-Xiao, Z., **Mirza A.**, et al., A Bypass Flow Model to Study Endothelial Cell Mechanotransduction Across Diverse Flow Environments. Materials Today Bio, 2024: p. 101121. https://doi.org/10.1016/j.mtbio.2024.101121
+**Mirza A**, Hsu C-PD, Rodriguez A, Alvarez P, Lou L, Sey M, Agarwal A, Hutcheson JD, Ramaswamy S. *“Computational Model for Early-Stage Aortic Valve Calcification Shows Hemodynamic Biomarkers”* *Bioengineering*, 2024 (Under Review)
+
+`2024`
+Xiao, Z, **Mirza A**, et al., A Bypass Flow Model to Study Endothelial Cell Mechanotransduction Across Diverse Flow Environments. Materials Today Bio, 2024: p. 101121. https://doi.org/10.1016/j.mtbio.2024.101121
   
 `2022`
-Gonzalez, B.A.; Herrera, A.; Ponce, C.; Gonzalez Perez, M.; Hsu, C.-P.D.; **Mirza, A.**; Perez, M.; Ramaswamy, S. Stem Cell-Secreted Allogeneic Elastin-Rich Matrix with Subsequent Decellularization for the Treatment of Critical Valve Diseases in the Young. Bioengineering 2022, 9, 587. https://doi.org/10.3390/bioengineering9100587
+Gonzalez, B.A; Herrera, A; Ponce, C; Gonzalez Perez, M; Hsu, C.-P.D; **Mirza, A**; Perez, M; Ramaswamy, S. Stem Cell-Secreted Allogeneic Elastin-Rich Matrix with Subsequent Decellularization for the Treatment of Critical Valve Diseases in the Young. Bioengineering 2022, 9, 587. https://doi.org/10.3390/bioengineering9100587
   
 `2022`
 Hsu C-PD, Tchir A, **Mirza A**, Chaparro D, Herrera RE, Hutcheson JD, Ramaswamy S. *“Valve Endothelial Cell Exposure to High Levels of Flow Oscillations Exacerbates Valve Interstitial Cell Calcification”* *Bioengineering* [10.3390/bioengineering9080393] https://doi.org/10.3390/bioengineering9080393, 2022
@@ -162,6 +165,11 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 **Braman Scholars Completion Grant**, *Braman Family Foundation*, USA, $1,000. <br/>
 
 ## Awards and honors
+`Feb 2024`
+**Oral Competition 1st Place Winner**, *Graduate Research Day 2024, Miami, FL* <br/> 
+
+`Feb 2024`
+**Poster Competition 1st Place Winner**, *Heart Day 2024, Miami, FL* <br/> 
   
 `Dec 2022`
 **SGA Graduate Scholarship**, *SGA, Florida International University, Miami, FL.* <br/> 
@@ -195,6 +203,9 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 ## Conference Proceedings
 
 ### Oral Presentations
+`Feb 2024`
+  
+**Mirza  A**, Ramaswamy  S:  Fluid-Structure-Interaction Models of Early-Stage Calcified Aortic Valves Show Hemodynamics Biomarkers. *Graduate Research Day 2024*,  Florida International University, Miami, FL
   
 `Mar 2023`
   
@@ -502,6 +513,8 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 The Six Sigma Yellow Belt certification is aimed at those new to the world of Six Sigma who have a small role, interest, or need to develop foundational knowledge.
 
 ## University Service
+`Summer 2024`
+**20240 Summer BME Senior Design Oral Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA <br/>
 
 `Fall 2020`
 **2020 Fall BME Senior Design Poster Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA <br/>
