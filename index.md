@@ -34,6 +34,11 @@ Thesis:*“Computational Model for Aortic Valve Calcification Prediction Through
 Senior Design Project:*“A System for Wholefield Fluorescent Microscopy Imaging In-Vivo”*
 
 ## Work Experience
+`Aug 2024 - Present`
+**Assistant Research Professor**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
+Dr. Tsoukias's Vascular Physiology and Biotransport <br/>
+Dr. Hutcheson's Cardiovascular Matrix Remodeling Lab <br/>
+Vida Engineering LLC <br/>
 
 `Aug 2019 - June 2024`
 **Lab Assistant**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA. <br/>
