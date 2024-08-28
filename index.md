@@ -11,7 +11,7 @@ Department of Biomedical Engineering<br/>
 10555 West Flagler Street<br/>
 Miami, FL, 33174, USA<br/>
 
-Academic Email - <a href="amirza@fiu.edu"> amirz013@fiu.edu</a><br/>
+Academic Email - <a href="amirza@fiu.edu"> amirza@fiu.edu</a><br/>
 Work Email - <a href="asadmirza33165@gmail.com"> asadmirza33165@gmail.com</a><br/>
 
 <div id="webaddress">
