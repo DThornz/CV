@@ -2,7 +2,7 @@
 layout: cv
 title: Asad Mirza's CV
 ---
-<a href="https://amirza.dev"><img src="https://www.amirza.dev/assets/favicon.png" style="width: 200px;height: 200px;position: absolute;right: 0%;box-shadow: inset 0 0 0px 3px rgb(0 0 0);z-index:1"> 
+<a href="https://dthornz.github.io/CV/"><img src="https://www.amirza.dev/assets/favicon.png](https://github.com/DThornz/CV/blob/gh-pages/Logo_V1.png" style="width: 200px;height: 200px;position: absolute;right: 0%;box-shadow: inset 0 0 0px 3px rgb(0 0 0);z-index:1"> 
 
 # Asad Mirza
 Assistant Research Professor, Florida International University
@@ -15,7 +15,6 @@ Academic Email - <a href="amirza@fiu.edu"> amirza@fiu.edu</a><br/>
 Work Email - <a href="asadmirza33165@gmail.com"> asadmirza33165@gmail.com</a><br/>
 
 <div id="webaddress">
-  <a href="https://amirza.dev"><i class="fas fa-home"></i> amirza.dev</a> - 
   <a href="https://github.com/DThornz"><i class="fab fa-github"></i> DThornz</a> - 
   <a href="https://orcid.org/0000-0003-4515-2203"><i class="ai ai-orcid"></i> 0000-0003-4515-2203</a> - 
   <a href="https://www.researchgate.net/profile/Asad_Mirza2"><i class="ai ai-researchgate"></i> Asad_Mirza</a> - 
