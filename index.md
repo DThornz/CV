@@ -573,4 +573,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-<br/>Last updated: July 2024<br/><br/>
+<br/>Last updated: April 2025<br/><br/>
