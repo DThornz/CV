@@ -208,11 +208,9 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 
 ### Oral Presentations
 `Feb 2024`
-  
 **Mirza  A**, Ramaswamy  S:  Fluid-Structure-Interaction Models of Early-Stage Calcified Aortic Valves Show Hemodynamics Biomarkers. *Graduate Research Day 2024*,  Florida International University, Miami, FL
   
 `Mar 2023`
-  
 **Mirza  A**, Ramaswamy  S:  Development of a Patient-Specific Parameterized Aortic Heart Valve Computational Model. *Graduate Research Day 2023*,  Florida International University, Miami, FL
 
 `April 2021`
@@ -235,6 +233,14 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 
 ### Poster Presentations
+`March 2025`
+Saadat M, **Mirza  A**, Tsoukias N:  Mathematical Modeling of Nitric Oxide Dynamics in Cerebral Microvascular Networks. *Graduate Research Day 2025*,  Florida International University, Miami, FL
+
+`March 2025`
+Khakpour N, **Mirza  A**, Tsoukias N:  Stochastic Modeling of IP3R-Mediated Calcium Signaling in Brain Capillary Endothelial Cells. *Graduate Research Day 2025*,  Florida International University, Miami, FL
+
+`Februrary 2025`
+Khakpour N, **Mirza  A**, Tsoukias N:  Stochastic Modeling of IP3R-Mediated Calcium Signaling in Brain Capillary Endothelial Cells. *Miami Heart Day 2025*,  Florida International University, Miami, FL
 
 `Oct 2023`
 **Mirza  A**, Ramaswamy  S:  Computational Reproduction of the Aortic Valve Geometry for Patient-Specific Simulations. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   11-14, Seattle, WA, 2023.
@@ -314,6 +320,9 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 ## Teaching
 
 ### Guest Lectures
+'2025'
+**MATLAB Basics**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**MATLAB to Python**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
   
 `2023`
 **Image Processing**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
@@ -463,7 +472,9 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 <br>
 
 ### Senior Design Group Consultation
-  
+`Spring 2025`
+- Team 6: IUSDRx
+- 
 `Fall 2022`
 - Team 1: Garrison Gauge
 - Team 3: Wearable Transdermal Isoflurane Monitoring Device 
