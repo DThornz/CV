@@ -91,6 +91,11 @@ Child Care, Activity Cart, In-Patient Pharmacy
 ### Journal articles, in preparation
 
 -->
+### Patents
+Ramaswamy, S. D., Nevarez, M. P., **Mirza, A. M.**, Lin, Y.-M., Ibarra, A., & Arman, P. (2025, March 6). Production of enhanced stem cell-based exosomes and uses in scar tissue prevention and treatment. 
+
+### Book Chapters
+Ponce Aportela, C., Alvarado, D., Pandya, K., Herrera, **A., Mirza**, A., Ramaswamy, S. (2025). Revolutionizing Pediatric Valve Replacement: The Future of Elastin-Rich Tissue-Engineered Solutions. In: Liao, J., Wong, J.Y. (eds) Integration and Bridging of Multiscale Bioengineering Designs and Tissue Biomechanics. Springer, Cham. https://doi.org/10.1007/978-3-031-81743-4_10
 
 ### Journal Articles
 `2024`
@@ -121,6 +126,8 @@ Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic He
 **Mirza AM**, Moshkforoush A, Tsoukias N, *“Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell”*, 2018 (In Preparation) .
 
 ### Conference Abstracts
+`2024`
+Saadat M, **Mirza  A**, Tsoukias N:  Predicting Nitric Oxide Transport in Microvascular Networks Using the Green’s Function Method. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   23-26, Batlimore, MD, 2024.
 
 `2021`
 CPD Hsu, **Mirza A**, Matheny R, Ramaswamy S. *“Tricuspid Versus Mitral Performance of Cylindrical Porcine Small Intestinal Submucosa Valves”* *Structural Heart*. doi: [10.1080/24748706.2021.1900706](https://www.tandfonline.com/doi/abs/10.1080/24748706.2021.1900706),  2021 
