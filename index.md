@@ -92,9 +92,11 @@ Child Care, Activity Cart, In-Patient Pharmacy
 
 -->
 ### Patents
+`2025`
 Ramaswamy, S. D., Nevarez, M. P., **Mirza, A. M.**, Lin, Y.-M., Ibarra, A., & Arman, P. (2025, March 6). Production of enhanced stem cell-based exosomes and uses in scar tissue prevention and treatment. 
 
 ### Book Chapters
+`2025`
 Ponce Aportela, C., Alvarado, D., Pandya, K., Herrera, **A., Mirza**, A., Ramaswamy, S. (2025). Revolutionizing Pediatric Valve Replacement: The Future of Elastin-Rich Tissue-Engineered Solutions. In: Liao, J., Wong, J.Y. (eds) Integration and Bridging of Multiscale Bioengineering Designs and Tissue Biomechanics. Springer, Cham. https://doi.org/10.1007/978-3-031-81743-4_10
 
 ### Journal Articles
