@@ -128,6 +128,15 @@ Tesfamariam MD, **Mirza AM**, Chaparro D, et al. *“Elastin-Dependent Aortic He
 **Mirza AM**, Moshkforoush A, Tsoukias N, *“Mathematical Model of Plasma Membrane Electrophysiology in a Single Pericyte Cell”*, 2018 (In Preparation) .
 
 ### Conference Abstracts
+`2025`
+**Mirza  A**, Munoz E, Alevriadou BR:  A Computational Approach to Tuning Orbital Shaker Conditions for Mechanobiological Experiments. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
+
+`2025`
+Saadat M, **Mirza  A**, Tsoukias N:  Multiscale Modeling of Nitric Oxide Transport in Cerebral Microvascular Networks Using Green's Function Method. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
+
+`2025`
+Herrera A, Padron J, Mihajlov A, Idiarte E, **Mirza  A**, Prasad A:  Assessment of a Decellularized Matrix and Electrospun Fibers for Pediatric Heart Valve Replacements. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
+
 `2024`
 Saadat M, **Mirza  A**, Tsoukias N:  Predicting Nitric Oxide Transport in Microvascular Networks Using the Green’s Function Method. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   23-26, Batlimore, MD, 2024.
 
@@ -242,6 +251,9 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 
 ### Poster Presentations
+`October 2025`
+**Mirza  A**, Munoz E, Alevriadou BR:  A Computational Approach to Tuning Orbital Shaker Conditions for Mechanobiological Experiments. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
+
 `March 2025`
 Saadat M, **Mirza  A**, Tsoukias N:  Mathematical Modeling of Nitric Oxide Dynamics in Cerebral Microvascular Networks. *Graduate Research Day 2025*,  Florida International University, Miami, FL
 
@@ -368,6 +380,18 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 `2020`
 **GUI Development**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
+
+### Research Assistant Professor Teaching
+`Spring 2025`
+- \- BME 2740: Biomedical Engineering Modeling and Simulation
+       - **40 students** <br>
+- \- BME 1054L: Introduction to BME Computing
+       - **70 students** <br>
+`Fall 2024`
+- \- BME 6715: Mathematical Modeling of Physiological Systems
+       - **5 students** <br>
+- \- BME 2740: Biomedical Engineering Modeling and Simulation
+       - **46 students** <br>
 
 ### Graduate Assistant Teaching
 
