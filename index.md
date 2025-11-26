@@ -349,7 +349,9 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 ### Guest Lectures
 `2025`
 **MATLAB Basics**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+
 **MATLAB to Python**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+
 **Neural Networks**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
   
 `2023`
