@@ -252,6 +252,12 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 ### Poster Presentations
 `October 2025`
+Herrera A, Idiarte E, Acevedo J, Mihajlov A, **Mirza  A**, Prasad A:  Assessment of a Decellularized Matrix and Electrospun Fibers for Pediatric Heart Valve Replacements. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
+
+`October 2025`
+Saadat M, **Mirza  A**, Tsoukias N:  Multiscale Modeling of Nitric Oxide Transport in Cerebral Microvascular Networks Using Green's Function Methods. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
+
+`October 2025`
 **Mirza  A**, Munoz E, Alevriadou BR:  A Computational Approach to Tuning Orbital Shaker Conditions for Mechanobiological Experiments. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
 
 `March 2025`
@@ -341,9 +347,10 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 ## Teaching
 
 ### Guest Lectures
-'2025'
+`2025`
 **MATLAB Basics**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 **MATLAB to Python**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+**Neural Networks**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
   
 `2023`
 **Image Processing**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
@@ -382,11 +389,18 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 **GUI Development**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 ### Research Assistant Professor Teaching
+`Fall 2025`
+- \- BME 2740: Biomedical Engineering Modeling and Simulation
+       - **40 students** <br>
+- \- BME 1054L: Introduction to BME Computing
+       - **67 students** <br>
+       
 `Spring 2025`
 - \- BME 2740: Biomedical Engineering Modeling and Simulation
        - **40 students** <br>
 - \- BME 1054L: Introduction to BME Computing
        - **70 students** <br>
+       
 `Fall 2024`
 - \- BME 6715: Mathematical Modeling of Physiological Systems
        - **5 students** <br>
@@ -506,8 +520,10 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 ### Senior Design Group Consultation
 `Spring 2025`
+- Team 3: Fully Mechanical Prosthetic Ankle
+- Team 4: NPCore
 - Team 6: IUSDRx
-- 
+
 `Fall 2022`
 - Team 1: Garrison Gauge
 - Team 3: Wearable Transdermal Isoflurane Monitoring Device 
@@ -606,4 +622,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-<br/>Last updated: April 2025<br/><br/>
+<br/>Last updated: November 2025<br/><br/>
