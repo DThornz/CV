@@ -100,6 +100,9 @@ Ramaswamy, S. D., Nevarez, M. P., **Mirza, A. M.**, Lin, Y.-M., Ibarra, A., & Ar
 Ponce Aportela, C., Alvarado, D., Pandya, K., Herrera, **A., Mirza**, A., Ramaswamy, S. (2025). Revolutionizing Pediatric Valve Replacement: The Future of Elastin-Rich Tissue-Engineered Solutions. In: Liao, J., Wong, J.Y. (eds) Integration and Bridging of Multiscale Bioengineering Designs and Tissue Biomechanics. Springer, Cham. https://doi.org/10.1007/978-3-031-81743-4_10
 
 ### Journal Articles
+`2026`
+**Mirza A**, Xiao Z, White NA, Wen J, Postma RJ, Sol WMPJ, van den Berg BM, van Zonneveld AJ, van de Stadt HJF, Bijkerk R, Rotmans JI. *“Exploring the Link Between Disturbed Flow and Endothelial Cell Function in an In Vitro Arteriovenous Fistula Model”* *Acta Biomaterialia*, 2026. https://doi.org/10.1016/j.actbio.2026.01.044
+
 `2024`
 **Mirza A**, Hsu C-PD, Rodriguez A, Alvarez P, Lou L, Sey M, Agarwal A, Hutcheson JD, Ramaswamy S. *“Computational Model for Early-Stage Aortic Valve Calcification Shows Hemodynamic Biomarkers”* *Bioengineering*, 2024, 11, 955. https://doi.org/10.3390/bioengineering11100955
 
