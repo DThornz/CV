@@ -228,6 +228,9 @@ Ashenagar B, Moshkforoush A, **Mirza A**, Tsoukias N. *“Integrative Modeling o
 ## Conference Proceedings
 
 ### Oral Presentations
+`Feb 2026`
+**Mirza  A**:  Code You Can Read: Using MATLAB Live Scripts to Teach Engineering Modeling. *Faculty Innovations for Student Success Showcase 2026*,  Florida International University, Miami, FL
+
 `Feb 2024`
 **Mirza  A**, Ramaswamy  S:  Fluid-Structure-Interaction Models of Early-Stage Calcified Aortic Valves Show Hemodynamics Biomarkers. *Graduate Research Day 2024*,  Florida International University, Miami, FL
   
@@ -254,28 +257,37 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 
 ### Poster Presentations
-`October 2025`
+`Feb 2026`
+Garcia A, Chaparro D, **Mirza A**, Martin M, Hutcheson JD:  Asymmetric Onset of Pathological Remodeling of Aortic Valve Disease. *Miami Heart Day 2026*,  Florida International University, Miami, FL
+
+`Feb 2026`
+Ashbrooke SK, Martin M, **Mirza A**, Pavan C, Chandler KB, Hutcheson JD:  Global Proteomic Profiling Reveals Sistinct Responses to High Phosphate and Osteogenic Media in Calcification Media. *Miami Heart Day 2026*,  Florida International University, Miami, FL
+
+`Feb 2026`
+Herrera A, Acevedo J, Idiarte E, , **Mirza  A**, Prasad A:  Characterization of Tubular Electro Spin Scaffolds for Pediatric Heart Valve Applications. *Miami Heart Day 2026*,  Florida International University, Miami, FL
+
+`Oct 2025`
 Herrera A, Idiarte E, Acevedo J, Mihajlov A, **Mirza  A**, Prasad A:  Assessment of a Decellularized Matrix and Electrospun Fibers for Pediatric Heart Valve Replacements. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
 
-`October 2025`
+`Oct 2025`
 Saadat M, **Mirza  A**, Tsoukias N:  Multiscale Modeling of Nitric Oxide Transport in Cerebral Microvascular Networks Using Green's Function Methods. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
 
 `October 2025`
 **Mirza  A**, Munoz E, Alevriadou BR:  A Computational Approach to Tuning Orbital Shaker Conditions for Mechanobiological Experiments. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   8-12, San Diego, CA, 2025.
 
-`March 2025`
+`Mar 2025`
 Saadat M, **Mirza  A**, Tsoukias N:  Mathematical Modeling of Nitric Oxide Dynamics in Cerebral Microvascular Networks. *Graduate Research Day 2025*,  Florida International University, Miami, FL
 
-`March 2025`
+`Mar 2025`
 Khakpour N, **Mirza  A**, Tsoukias N:  Stochastic Modeling of IP3R-Mediated Calcium Signaling in Brain Capillary Endothelial Cells. *Graduate Research Day 2025*,  Florida International University, Miami, FL
 
-`Februrary 2025`
+`Feb 2025`
 Khakpour N, **Mirza  A**, Tsoukias N:  Stochastic Modeling of IP3R-Mediated Calcium Signaling in Brain Capillary Endothelial Cells. *Miami Heart Day 2025*,  Florida International University, Miami, FL
 
 `Oct 2023`
 **Mirza  A**, Ramaswamy  S:  Computational Reproduction of the Aortic Valve Geometry for Patient-Specific Simulations. *Biomedical Engineering   Society   Annual   Fall   Meeting   (BMES)*,   October   11-14, Seattle, WA, 2023.
   
-`March 2023`
+`Mar 2023`
 **Mirza  A**, Ramaswamy  S:  Towards the Creation of a Parameterized Asymmetric Aortic Valve Model. *GSAW Scholarly Forum 2023*,  Florida International University, Miami, FL
   
 `Feb 2023`
