@@ -593,7 +593,11 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 **Six Sigma - Yellow Belt**, *Florida International University*, Miami, FL, USA.<br/>
 The Six Sigma Yellow Belt certification is aimed at those new to the world of Six Sigma who have a small role, interest, or need to develop foundational knowledge.
 
-## University Service
+## University/Professional Service
+
+`March 2026` 
+**Faculty Judge**, *Undergraduate Research at FIU (URFIU) Practice Presentation Session, Honors College, Florida International University*, Miami, FL, USA. <br/>
+
 `Summer 2024`
 **20240 Summer BME Senior Design Oral Judge**, *Biomedical Engineering Society, Florida International University*, Miami, FL, USA <br/>
 
