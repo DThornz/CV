@@ -363,6 +363,8 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 
 ### Guest Lectures
 `2025`
+**Introduction to Numerical Modeling/FEA/CFD**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
+
 **MATLAB Basics**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
 
 **MATLAB to Python**, *Department of Biomedical Engineering, Florida International University*, Miami, FL, USA
@@ -406,6 +408,14 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 **GUI Development**, *Department of Biomedical Engineering, Florida International University (Virtual)*, Miami, FL, USA
 
 ### Research Assistant Professor Teaching
+`Spring 2026`
+- \- BME 2740: Biomedical Engineering Modeling and Simulation
+       - **39 students** <br>
+- \- BME 1054L: Introduction to BME Computing
+       - **76 students** <br>
+- \- BME 6705: Nonlinear Systems with Applications to Life Sciences
+       - **4 students** <br>
+       
 `Fall 2025`
 - \- BME 2740: Biomedical Engineering Modeling and Simulation
        - **40 students** <br>
@@ -643,4 +653,4 @@ Native: English, Urdu
 
 Basic: Hindi
 
-<br/>Last updated: November 2025<br/><br/>
+<br/>Last updated: March 2026<br/><br/>
