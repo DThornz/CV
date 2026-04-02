@@ -546,6 +546,11 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 <br>
 
 ### Senior Design Group Consultation
+'Fall 2025`
+- Team 2: Low-cost EMG-controlled 3D-printed Prosthetic Hand
+- Team 3: Fully Mechanical Prosthetic Ankle: A Mobility Lifeline for Transtibial Amputees in Low Resource Environments
+- Team 4: Novel Hydraulic Spinal Rod Cutter for Use in Lumbar Spine Revision Surgery. 
+  
 `Spring 2025`
 - Team 3: Fully Mechanical Prosthetic Ankle
 - Team 4: NPCore
@@ -586,15 +591,17 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 - Team 5: Field Therapy Accelerator
 
 ### Undergraduate Interns
+`2024-2025`
+**Divina Campbell**, *Biomedical Engineering Department, Florida International University*, Miami, FL.
 
 `2020-2021`
-**Tisha Boodooram**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
+**Tisha Boodooram**, *Biomedical Engineering Department, Florida International University*, Miami, FL.
 
 `2018-2021`
-**Amanda Barreto**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
+**Amanda Barreto**, *Biomedical Engineering Department, Florida International University*, Miami, FL.
 
 `2019`
-**Sergio Rodriguez**, *Biomedical Engineering Department, Florida International Unvierstiy*, Miami, FL.
+**Sergio Rodriguez**, *Biomedical Engineering Department, Florida International University*, Miami, FL.
 
 
 ## Professional Training
@@ -604,6 +611,11 @@ Moshkforoush A, **Mirza A**, Longden T, Dabertrand F, Harraz O, Nelson M, Tsouki
 The Six Sigma Yellow Belt certification is aimed at those new to the world of Six Sigma who have a small role, interest, or need to develop foundational knowledge.
 
 ## University/Professional Service
+`April 2026 - July 2026`  
+**PhD Qualifying Exam Committee**, *Biomedical Engineering Department, Florida International University*, Miami, FL, USA.
+
+`March 2026-Present`  
+**Graduate Program Committee**, *Biomedical Engineering Department, Florida International University*, Miami, FL, USA.
 
 `March 2026`  
 **Abstract Reviewer**, *Undergraduate Research at FIU (URFIU) Conference, Florida International University*, Miami, FL, USA.
